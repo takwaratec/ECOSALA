@@ -1,109 +1,185 @@
 #!/usr/bin/env python3
 """
 Sentinel Script — ECOSALA
-Monitoramento Generico de Editais e Geracao de Fichas de Inscricao
-Cobre o escopo dos 11 membros: agroecologia, bioconstrucao, microbiologia,
-saude, gestao comunitaria, TI, arquitetura, educacao do campo, bambu, bioinsumos
+Monitoramento Generico de Editais
+
+FLUXO OBRIGATORIO PARA CADA EDITAL:
+1. BAIXAR o PDF do regulamento para TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/
+2. CONVERTER o regulamento para .md em docs/editais/[edital]/regulamento.md
+3. CONVERTER documentos de apoio e formulario oficial para .md
+4. ANALISAR compativelidades (TRL, valores, prazos, contrapartida, escopo)
+5. ESCREVER orientacoes no boletim semanal
 """
 
-def formatar_ficha_inscricao(edital_nome, teto, prazo, eixos, membros):
-    template = f"""# Gabarito de Inscricao: {edital_nome}
-**Teto:** {teto} | **Prazo:** {prazo}
-**Eixos:** {', '.join(eixos)}
-**Membros envolvidos:** {', '.join(membros)}
+import os
+from datetime import date
 
-## [CAMPO 1] IDENTIFICACAO DO PROJETO
-- Titulo: [Inserir]
-- Proponente: [A definir — cooperativa/associacao/ICT]
+CAMINHOS = {
+    "regulamentos": "TRIAGEM-BRUTA/05_EDITAIS_REGULAMENTOS/",
+    "editais_docs": "docs/editais/",
+}
 
-## [CAMPO 2] JUSTIFICATIVA
-[Contexto territorial especifico do edital]
+AREAS_ECOSALA = [
+    "Agroecologia e producao organica",
+    "Bioconstrucao e arquitetura sustentavel",
+    "Microbiologia e bioinsumos",
+    "Saude integral e desertos alimentares",
+    "Gestao comunitaria e politicas publicas",
+    "TI e documentacao",
+    "Educacao do campo",
+    "Bambu, biochar, PU vegetal",
+]
 
-## [CAMPO 3] METODOLOGIA
-[Metodologia ECOSALA — ecoformacao em 5 etapas]
 
-## [CAMPO 4] METAS E RESULTADOS
-[Metricas especificas do edital]
+def baixar_regulamento(url, edital_nome):
+    """Passo 1: Baixar o PDF do regulamento."""
+    destino = os.path.join(CAMINHOS["regulamentos"], f"{edital_nome}_regulamento.pdf")
+    print(f"[1/5] BAIXAR regulamento de: {url}")
+    print(f"      Salvar em: {destino}")
+    print(f"      Status: PENDENTE (wget/curl)")
+    return destino
 
-## ANEXOS NECESSARIOS
-- [ ] Carta de anuencia das ICTs
-- [ ] Carta de anuencia dos territorios
-- [ ] Orcamento detalhado
-- [ ] Cronograma fisico-financeiro
-- [ ] CVs da equipe
-"""
-    return template
 
-def gerar_boletim(editais):
-    boletim = "# Boletim Sentinel — ECOSALA\n"
-    boletim += "> Monitoramento generico para os 11 membros\n\n"
-    boletim += "## Areas de Atuacao\n"
-    boletim += "- Agroecologia e producao organica (Paron, Vilela, Sando)\n"
-    boletim += "- Bioconstrucao e arquitetura sustentavel (Blanco, Araujo)\n"
-    boletim += "- Microbiologia e bioinsumos (Paron, Takwara)\n"
-    boletim += "- Saude integral e desertos alimentares (Palma)\n"
-    boletim += "- Gestao comunitaria e politicas publicas (Okino, Sando)\n"
-    boletim += "- TI e documentacao (Miguel, Bueno, Takwara)\n"
-    boletim += "- Educacao do campo (Borges)\n"
-    boletim += "- Bambu, biochar, PU vegetal (Borges, Takwara)\n\n"
+def converter_para_md(arquivo_pdf, edital_nome):
+    """Passo 2: Converter PDF do regulamento para .md."""
+    destino_md = os.path.join(CAMINHOS["editais_docs"], f"{edital_nome}_regulamento.md")
+    print(f"[2/5] CONVERTER regulamento para .md:")
+    print(f"      De: {arquivo_pdf}")
+    print(f"      Para: {destino_md}")
+    print(f"      Comando: textutil -convert txt -output /tmp/{edital_nome}.txt {arquivo_pdf}")
+    return destino_md
+
+
+def converter_formulario(arquivo_original, edital_nome):
+    """Passo 3: Converter formulario oficial e docs de apoio para .md."""
+    destino = os.path.join(CAMINHOS["editais_docs"], f"{edital_nome}_formulario.md")
+    print(f"[3/5] CONVERTER formulario/documentos de apoio para .md:")
+    print(f"      De: {arquivo_original}")
+    print(f"      Para: {destino}")
+    return destino
+
+
+def analisar_regulamento(edital_nome):
+    """Passo 4: Extrair requisitos e verificar compativelidade."""
+    hoje = date.today().isoformat()
+    print(f"\n[4/5] ANALISE DE REGULAMENTO: {edital_nome} — {hoje}")
+    print("=" * 60)
+    print("[ ] TRL minima exigida: _____")
+    print("[ ] Valor minimo: R$ _____")
+    print("[ ] Valor maximo: R$ _____")
+    print("[ ] Contrapartida: _____%")
+    print("[ ] Prazo maximo: _____ meses")
+    print("[ ] Documentos obrigatorios listados: _____")
+    print("[ ] Criterios eliminatórios identificados: [ ]")
+    print("[ ] Criterios classificatórios identificados: [ ]")
+    print("=" * 60)
+
+    print("\nCOMPATIBILIDADE COM ECOSALA:")
+    for area in AREAS_ECOSALA:
+        print(f"  [ ] {area}")
+    print("\nMEMBROS ENVOLVIDOS:")
+    for m in ["Paron", "Blanco", "Takwara", "Vilela", "Sando",
+              "Borges", "Palma", "Okino", "Miguel", "Bueno", "Araujo"]:
+        print(f"  [ ] {m}")
+
+
+def gerar_boletim_semanal(editais):
+    """Passo 5: Boletim semanal com orientacoes."""
+    boletim = f"# Boletim Sentinel ECOSALA — Semana {date.today().strftime('%d/%m/%Y')}\n\n"
+    boletim += f"## Areas de Atuacao ({len(AREAS_ECOSALA)} areas)\n\n"
+    for a in AREAS_ECOSALA:
+        boletim += f"- {a}\n"
+
+    boletim += f"\n## Editais em Analise ({len(editais)})\n\n"
 
     for i, e in enumerate(editais, 1):
-        boletim += f"---\n### {i}. {e['nome']}\n"
-        boletim += f"**Teto:** {e['teto']} | **Prazo:** {e['prazo']}\n"
-        boletim += f"**Eixos:** {', '.join(e['eixos'])}\n"
-        boletim += f"**Membros:** {', '.join(e['membros'])}\n"
-        boletim += f"{e['descricao']}\n\n"
+        boletim += f"### {i}. {e['nome']}\n"
+        boletim += f"**Situacao:** {e['status']}\n"
+        boletim += f"**Prazo:** {e['prazo']}\n"
+        boletim += f"**Valor:** {e['teto']}\n"
+        boletim += f"**Regulamento baixado?** {e['reg_baixado']}\n"
+        boletim += f"**Regulamento convertido?** {e['reg_convertido']}\n"
+        boletim += f"**Formulario convertido?** {e['form_convertido']}\n"
+        boletim += f"**Compatibilidade:** {e['compativel']}\n"
+        boletim += f"**Orientacao:** {e['orientacao']}\n\n"
+
+    boletim += "---\n"
+    boletim += "> Proximo boletim: " + date.today().isoformat() + "\n"
     return boletim
 
+
 if __name__ == '__main__':
+    print("=" * 60)
+    print("  SENTINEL ECOSALA — MONITORAMENTO GENERICO DE EDITAIS")
+    print("  Escopo: 11 membros, 8 areas de atuacao")
+    print("=" * 60)
+
+    # Simular analise dos 5 editais mapeados
     editais = [
         {
             "nome": "FINEP Mais Inovacao — Rodada 2",
-            "teto": "R$ 5.000.000 a R$ 20.000.000",
+            "status": "REGULAMENTO CONVERTIDO",
             "prazo": "Fluxo continuo (24 meses)",
-            "eixos": ["Economia Circular", "Cidades Sustentaveis", "Agua/Esgoto", "Moradia"],
-            "membros": ["Paron", "Blanco", "Takwara", "Borges", "Vilela", "Sando"],
-            "descricao": "Vaga Lumen: laboratorio itinerante. Documentos em github.com/takwaratec/fundo-vaga-lumen-2026"
+            "teto": "R$ 5.000.000 a R$ 20.000.000",
+            "reg_baixado": "✅",
+            "reg_convertido": "✅ (docs/regulamento-finep-mais-inovacao.md)",
+            "form_convertido": "✅ (docs/editais/finep-mais-inovacao-checklist.md)",
+            "compativel": "✅ PARCIAL — Falta proponente CNPJ e contrapartida",
+            "orientacao": "Avancar com definicao da empresa proponente."
         },
         {
             "nome": "BNDES Bioinsumos",
-            "teto": "A definir",
+            "status": "REGULAMENTO NAO BAIXADO",
             "prazo": "A confirmar",
-            "eixos": ["Bioinsumos", "Biochar", "Pirolenhoso", "Bambu"],
-            "membros": ["Takwara", "Paron", "Borges"],
-            "descricao": "Biochar + acido pirolenhoso + bambu. Minuta em docs/10_BNDES_BIOINSUMOS/"
+            "teto": "A definir",
+            "reg_baixado": "⬜",
+            "reg_convertido": "⬜",
+            "form_convertido": "⬜",
+            "compativel": "PENDENTE",
+            "orientacao": "Buscar regulamento e converter para .md."
         },
         {
             "nome": "FEHIDRO — Fundo Estadual de Recursos Hidricos",
-            "teto": "A consultar",
+            "status": "NAO INICIADO",
             "prazo": "A confirmar",
-            "eixos": ["Agua", "Saneamento", "Nascentes", "APA Guarani"],
-            "membros": ["Sando", "Okino", "Palma"],
-            "descricao": "Recuperacao de nascentes e saneamento rural na APA Guarani. Referencias em 04_REFERENCIAS_FEHIDRO/"
+            "teto": "A consultar",
+            "reg_baixado": "⬜",
+            "reg_convertido": "⬜",
+            "form_convertido": "⬜",
+            "compativel": "PENDENTE",
+            "orientacao": "Baixar regulamento do site da FEHIDRO."
         },
         {
             "nome": "Fundo Casa Socioambiental",
-            "teto": "R$ 20.000 a R$ 60.000",
+            "status": "REGULAMENTO NAO BAIXADO",
             "prazo": "30/jun e 14/jul/2026",
-            "eixos": ["Juventude", "Clima", "Agroecologia"],
-            "membros": ["Miguel", "Sando"],
-            "descricao": "Editais de base comunitaria. Parceria com Coletivo Terra Viva."
+            "teto": "R$ 20.000 a R$ 60.000",
+            "reg_baixado": "⬜",
+            "reg_convertido": "⬜",
+            "form_convertido": "⬜",
+            "compativel": "PENDENTE",
+            "orientacao": "PRAZO URGENTE! Baixar regulamento e verificar elegibilidade do Coletivo Terra Viva."
         },
         {
-            "nome": "CNPq — Bolsas de Extensao (DTI, EXP)",
-            "teto": "Variavel",
+            "nome": "CNPq — Bolsas DTI/EXP",
+            "status": "NAO INICIADO",
             "prazo": "Fluxo continuo",
-            "eixos": ["Formacao", "Pesquisa", "Extensao"],
-            "membros": ["Paron", "Borges", "Vilela"],
-            "descricao": "Bolsas para bolsistas do projeto. Lei de Inovacao 10.973/2004."
+            "teto": "Variavel",
+            "reg_baixado": "⬜",
+            "reg_convertido": "⬜",
+            "form_convertido": "⬜",
+            "compativel": "PENDENTE",
+            "orientacao": "Regulamento da RN CNPq 028/2015. Converter para .md."
         }
     ]
 
-    print("=== SENTINEL ECOSALA — MONITORAMENTO DE EDITAIS ===")
-    print(gerar_boletim(editais))
+    for e in editais:
+        print(f"\n>>> PROCESSANDO: {e['nome']} <<<")
+        baixar_regulamento("https://exemplo.com/edital", e['nome'][:30])
+        converter_para_md("regulamento.pdf", e['nome'][:30])
+        converter_formulario("formulario.pdf", e['nome'][:30])
+        analisar_regulamento(e['nome'][:30])
 
-    print("\n=== GABARITO: Edital prioritario ===")
-    gab = formatar_ficha_inscricao(editais[0]["nome"], editais[0]["teto"],
-                                    editais[0]["prazo"], editais[0]["eixos"],
-                                    editais[0]["membros"])
-    print(gab[:300])
+    print("\n\n" + "=" * 60)
+    print("BOLETIM SEMANAL GERADO:")
+    print(gerar_boletim_semanal(editais))
