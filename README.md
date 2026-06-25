@@ -65,7 +65,7 @@ Os documentos .md abrem automaticamente no navegador:
 
 | Edital | Prazo | Situação | Acessar |
 |---|---|---|---|
-| FINEP Mais Inovação — Vaga Lúmen | Fluxo contínuo | Em elaboração | [site](https://takwaratec.github.io/plataforma-juventude-solidaria-2026/editais/fundo-vaga-lumen-2026/proposta-final-vaga-lumen/) |
+| FINEP Mais Inovação — Vaga Lúmen | Fluxo contínuo | Em elaboração | [site](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/proposta-final-vaga-lumen.md) |
 | BNDES Bioinsumos | A confirmar | Minuta | [docs/editais/](docs/editais/finep-mais-inovacao.md) ⬅️ GitHub |
 | Fundo Casa Socioambiental | 30/jun | Novo | `docs/editais/` |
 | FEHIDRO | A confirmar | Não iniciado | `docs/editais/` |
