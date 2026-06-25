@@ -65,14 +65,25 @@ Os documentos .md abrem automaticamente no navegador:
 
 | Edital | Prazo | Situação | Acessar |
 |---|---|---|---|
-| FINEP Mais Inovação — Vaga Lúmen | Fluxo contínuo | Em elaboração | [site](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/proposta-final-vaga-lumen.md) |
-| BNDES Bioinsumos | A confirmar | Minuta | [docs/editais/](docs/editais/finep-mais-inovacao.md) ⬅️ GitHub |
-| Fundo Casa Socioambiental | 30/jun | Novo | `docs/editais/` |
+| FINEP Mais Inovação — Vaga Lúmen | Fluxo contínuo | Em elaboração | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026/blob/main/proposta-final-vaga-lumen.md) |
+| BNDES Bioinsumos | A confirmar | Minuta | [📄 abrir](https://github.com/takwaratec/ECOSALA/blob/main/docs/10_BNDES_BIOINSUMOS/GABARITO_BNDES_BIOINSUMOS_ECOSALA.md) |
+| Fundo Casa Socioambiental | 30/jun | Novo | [📄 abrir](https://github.com/takwaratec/ECOSALA/blob/main/README.md) |
 | FEHIDRO | A confirmar | Não iniciado | `docs/editais/` |
 
 > ℹ️ **Legenda:** Links azuis vão para o site. Links sem `https://` vão para arquivos no repositório GitHub.
 
 ---
+
+
+---
+
+## 📚 Produção científica dos membros — como contribuir
+
+As fichas individuais foram atualizadas com base em busca exaustiva em CrossRef, Google Scholar e Lattes.
+Para membros sem produção encontrada em bases indexadas (André Blanco, Joaquim Sando, Luci Okino, Murillo Miguel, Henrique Bueno e Luis Felipe), **nada foi localizado com DOI**.
+
+> 👉 **Se você tem artigos, teses ou capítulos publicados que não foram encontrados, abra uma Issue ou envie o link do seu Lattes/ORCID.** As fichas serão atualizadas.
+
 
 ## 🤖 Sobre este repositório
 
