@@ -1,0 +1,11 @@
+# TRIAGEM-BRUTA — Material nao versionado
+TRIAGEM-BRUTA/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
