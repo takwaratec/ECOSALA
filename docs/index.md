@@ -26,7 +26,7 @@ Articular formação, pesquisa e ação em agroecologia, bioconstrução e tecno
 |---|---|---|
 | Marcos Paron | IFSP | Microbiologia, ecoformação |
 | André Blanco | Labiapa | Bioconstrução, geodésicas |
-| Fabio Takwara | Tecnologia Takwara | PU Vegetal, captação |
+| Fabio Takwara | Tecnologia Takwara | Desenvolvedor IA, pesquisador autodidata em tecnologias sociais com bambu |
 | Gisele Vilela | Embrapa | Produção orgânica |
 | Joaquim Sando | MST RP | Articulação territorial |
 | Vicente Borges | IFB | Bambu, MPTDF |
@@ -37,22 +37,16 @@ Articular formação, pesquisa e ação em agroecologia, bioconstrução e tecno
 | Luis Felipe | Labiapa | Projeto complementar |
 | **Daniela Maciel** 🆕 | Embrapa | Transferência de tecnologia |
 
-📎 Fichas completas no [Acervo Científico](https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/ecosala/)
+📎 Fichas completas dos membros no [Acervo Científico](https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/ecosala/)
 
 ---
 
-## 📂 Documentos
+## 📂 Documentos do Coletivo
 
 | Documento | Descrição |
 |---|---|
 | [📋 ATA da Reunião Inaugural](ata-05-05-2026.md) | Memorial da 1ª reunião (14 participantes, 151 min) |
 | [🚐 Projeto ECOSALA Itinerante](ecosala-itinerante.md) | Projeto base do coletivo |
-| [🔬 Forno Ecológico MPTDF](a1.2_Forno_Ecológico.md) | Tecnologia social de tratamento de bambu |
-| [🏗️ Conexões Geodésicas](a1.4_Conexões_Geodésicos.md) | Estruturas geodésicas de bambu |
-| [🧪 PU Vegetal + Bambu](a1.5_PU_+_Bambu.md) | Poliuretano vegetal aplicado ao bambu |
-| [🌍 Anamnese do Território](ANAMNESE_TERRITORIO_ATORES.md) | Diagnóstico territorial e atores |
-| [🤝 Cooperativas de Manejo](Cooperativas_de_manejo.md) | Modelos de gestão comunitária |
-| [🌿 Estufas Geodésicas](Estufas_Geodesicas.md) | Estufas com estrutura geodésica |
 
 ---
 

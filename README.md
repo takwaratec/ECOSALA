@@ -42,7 +42,7 @@ Lá você encontra tudo organizado: atas, projetos, editais, fichas técnicas e 
 |---|---|---|---|---|
 | Marcos Paron | Agronomia, Dr. Microbiologia | IFSP | Microbiologia, ecoformação | paron@ifsp.edu.br |
 | André Blanco | Arquitetura (PUC) | Labiapa | Bioconstrução, geodésicas | arq.andreblanco@gmail.com |
-| Fabio Takwara | Autodidata | Tecnologia Takwara | PU Vegetal, captação | fabiotakwara@gmail.com |
+| Fabio Takwara | Autodidata | Tecnologia Takwara | Desenvolvedor IA, pesquisador autodidata em tecnologias sociais com bambu | fabiotakwara@gmail.com |
 | Gisele Vilela | Agronomia (UFLA) | Embrapa | Produção orgânica | gisele.vilela@embrapa.br |
 | Joaquim Sando | Eng. Agrônomo | MST RP | Articulação territorial | joaquimsando@gmail.com |
 | Vicente Borges | Agronomia, Dr. Educação | IFB | Bambu, MPTDF | vicente.silva@ifb.edu.br |
