@@ -2,21 +2,37 @@
 
 ## Identidade
 
-Coletivo de **11 pesquisadores, professores e profissionais** que atuam na retaguarda técnica de comunidades da reforma agrária, APAs e periferias urbanas. Formação, pesquisa e ação em agroecologia, bioconstrução e tecnologias sociais.
+Coletivo de **12 pesquisadores, professores e profissionais** que atuam na retaguarda técnica de comunidades da reforma agrária, APAs e periferias urbanas. Formação, pesquisa e ação em agroecologia, bioconstrução e tecnologias sociais.
 
-**Missão:** Articular formação, pesquisa e ação em agroecologia, construindo demandas a partir da base para depois buscar chancela institucional e financiamento.
+**Site:** https://takwaratec.github.io/ECOSALA/
+**Repositório:** github.com/takwaratec/ECOSALA
+**Acervo Científico:** https://takwaratec.github.io/Analises-e-escrita-cientifica/
 
 ---
 
 ## Objetivo do Agente
 
-Ao ser acionado neste repositório, seu papel é:
+1. **Manter documentação do coletivo** — atas, projetos, editais, fichas dos membros
+2. **Processar materiais dos membros** — áudios, PDFs, DOCX, imagens → converter para .md
+3. **Acompanhar editais** — verificar prazos, criar fichas, preparar rascunhos
+4. **Produzir conteúdo** — minutas, ofícios, atas, relatórios, propostas
+5. **Manter o site atualizado** — mkdocs gh-deploy --clean após alterações
 
-1. **Apoiar a produção científica** — fichas dos membros, revisão bibliográfica, normatização ABNT
-2. **Estruturar propostas** — FINEP, BNDES, Fundo Casa, editais estaduais/federais
-3. **Organizar reuniões e ATAs** — converter memoriais para .md, extrair decisões e encaminhamentos
-4. **Manter documentação técnica** — notas sobre bioinsumos, bambu, PU vegetal, MPTDF
-5. **Produzir conteúdo** — artigos, relatórios, apresentações
+---
+
+## Ferramentas Instaladas
+
+| Ferramenta | Função | Status | Caminho |
+|---|---|---|---|
+| **Pandoc** | DOCX/ODT → MD | ✅ | `/usr/local/bin/pandoc` |
+| **PyMuPDF** (fitz) | Extração de texto de PDFs | ✅ | Python `import fitz` |
+| **python-docx** | Leitura/escrita DOCX | ✅ | Python `import docx` |
+| **ffmpeg** | Conversão de áudio (opus → wav) | ✅ | `/Users/.../miniconda3/bin/ffmpeg` |
+| **faster-whisper** | Transcrição de áudio | 🔄 Falha de rede — tentar novamente | `pip install faster-whisper` |
+| **pdfplumber** | PDF tabular | ❌ Falha de rede — tentar novamente | `pip install pdfplumber` |
+
+### Workaround para áudio
+O gateway do Hermes (Telegram) já tem faster-whisper instalado. Áudios enviados pelo Telegram são transcritos automaticamente. Para áudios locais, converter com ffmpeg e transcrever com o gateway ou instalar whisper quando a rede estabilizar.
 
 ---
 
@@ -24,50 +40,78 @@ Ao ser acionado neste repositório, seu papel é:
 
 ```
 📂 docs/
-├── ata-05-05-2026.md              → Memorial da reunião inaugural
-├── ecosala-itinerante.md          → Projeto ECOSALA Itinerante
-├── editais/                       → Editais ativos e fichas
-├── 12_REUNIOES/                   → Memoriais de reuniões
-├── 10_BNDES_BIOINSUMOS/           → Proposta BNDES (biochar + pirolenhoso)
-└── 11_ESTUDOS_TECNICOS/           → Notas técnicas
+├── index.md                  → Home do site GH Pages
+├── ata-05-05-2026.md         → Memorial da reunião inaugural
+├── ecosala-itinerante.md     → Projeto ECOSALA Móvel (c/ texto do Marcos Paron)
+├── daniela-maciel.md         → Ficha da Daniela (consolidada)
+├── 12_REUNIOES/              → Memoriais e transcrições
+├── 10_BNDES_BIOINSUMOS/      → Proposta BNDES (minuta)
+├── 11_ESTUDOS_TECNICOS/      → Notas técnicas
+├── editais/
+│   ├── painel-editais-ecosala.md   → 14 editais mapeados
+│   ├── zayed-award-2027.md        → Regulamento Zayed
+│   └── zayed-award-2027-dossie.md → Dossiê de nomeação
+📂 TRIAGEM-BRUTA/             → Material original (não versionado)
+📄 mkdocs.yml                 → Configuração do site
+📄 AGENTS.md                  ← Este arquivo
+📄 README.md                  → Instruções para os membros
 ```
 
 ---
 
 ## Convenções para o Agente
 
-### Documentos
-- Converter originais (.docx, .odt, .pdf) para .md antes de versionar
-- NUNCA commitar binários grandes (PDF, DOCX, imagens) — vão para TRIAGEM-BRUTA/
-- Incluir fonte, data e contexto no topo de cada documento
+### Processamento de materiais
+
+| Tipo | Ação |
+|---|---|
+| **Áudio (.opus, .mp3, .m4a)** | Converter com ffmpeg + transcrever (whisper quando disponível; via gateway Telegram como fallback) |
+| **PDF** | Extrair texto com PyMuPDF → salvar como .md |
+| **DOCX/ODT** | Converter com Pandoc → salvar como .md |
+| **Imagens** | Analisar com visão computacional (se houver OCR disponível) |
 
 ### Fluxo de trabalho
-1. `git pull` — sincronizar com remoto
-2. Fazer alterações
-3. `git add <arquivos> && git commit -m "tipo: descrição" && git push`
+1. `git pull` — sincronizar
+2. Processar materiais
+3. `git add + git commit -m "tipo: descrição"`
+4. `git push`
+5. `mkdocs gh-deploy --clean`
 
-### Produção científica
-- Todo material citacional deve ter DOI verificado
-- NUNCA fabricar citações — usar parafrase explícita quando não houver transcrição literal
-- Referências em formato ABNT
+### Regras críticas
+- ❌ NUNCA fabricar citações — usar paráfrase explícita quando não houver transcrição
+- ❌ NUNCA inflar TRL em propostas
+- ✅ Atribuir com honestidade
+- ✅ Confirmar qual repositório antes de qualquer ação (ECOSALA, Vaga Lumen, MST, Acervo)
 
 ---
 
 ## Repositórios Irmãos
 
-| Repositório | Conteúdo | Público |
+| Repositório | GH Pages | Conteúdo |
 |---|---|---|
-| `github.com/takwaratec/plataforma-juventude-solidaria-2026` | Viveiro-Educador Terra Viva (MST) | MST Mário Lago |
-| `github.com/takwaratec/fundo-vaga-lumen-2026` | Proposta FINEP Mais Inovação | FINEP/avaliadores |
-| `github.com/takwaratec/Analises-e-escrita-cientifica` | Acervo científico — fichas, artigos, TRL | Acadêmico |
+| `github.com/takwaratec/ECOSALA` | `takwaratec.github.io/ECOSALA/` | Coletivo 12 membros ← **estamos aqui** |
+| `github.com/takwaratec/fundo-vaga-lumen-2026` | ❌ Só GitHub | Proposta FINEP |
+| `github.com/takwaratec/plataforma-juventude-solidaria-2026` | ✅ GH Pages | MST Mário Lago |
+| `github.com/takwaratec/Analises-e-escrita-cientifica` | ✅ GH Pages | Acervo ~80 fichas — **NÃO é ECOSALA** |
 
 ---
 
-## Acervo Científico
+## Fichas dos Membros — Status
 
-👉 https://takwaratec.github.io/Analises-e-escrita-cientifica/
-
-Fichas individuais dos 11 membros: `docs/analyses/ecosala/` no repositório de análises científicas.
+| Membro | Status | Histórico |
+|---|---|---|
+| Marcos Paron | ✅ Completa | Dr. Microbiologia IFSP |
+| André Blanco | ✅ Completa | Arquiteto Labiapa |
+| Fabio Takwara | ✅ Completa | Pesquisador autodidata IA + bambu |
+| Gisele Vilela | ✅ Completa | Pesquisadora Embrapa |
+| Joaquim Sando | ❌ **Pendente** | Aguardando histórico |
+| Vicente Borges | ✅ Completa | Dr. Educação IFB |
+| Raphaela Palma | ❌ **Pendente** | Aguardando histórico |
+| Luci Okino | ❌ **Pendente** | Aguardando histórico |
+| Murillo Miguel | ❌ **Pendente** | Aguardando histórico |
+| Henrique Bueno | ❌ **Pendente** | Aguardando histórico |
+| Luis Felipe | ❌ **Pendente** | Aguardando histórico |
+| Daniela Maciel | ✅ Completa | Drª Embrapa Territorial |
 
 ---
 
