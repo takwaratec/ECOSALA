@@ -1,16 +1,33 @@
-# Prêmio Zayed para a Fraternidade Humana — Edição 2027
-
-## ⚠️ Natureza: Prêmio por nomeação, NÃO é edital de projeto
-
-O Zayed Award é um prêmio humanitário internacional que reconhece **trabalho já realizado** por indivíduos ou organizações. Não é uma chamada onde se submete um projeto futuro.
+# 🏆 Prêmio Zayed para a Fraternidade Humana — Edição 2027
 
 **Prêmio:** USD $1.000.000 (US$ 1 milhão)
 
 ---
 
-## 📋 Regulamento (Eligible Nominators Guide)
+## 🔗 Acesse agora
 
-### Critérios de Elegibilidade
+| O quê | Link |
+|---|---|
+| **Página oficial do prêmio** | https://www.zayedaward.org/ |
+| **Formulário de nomeação (online)** | https://www.zayedaward.org/en/nomination |
+| **Regulamento / Guia do Nomeador (PDF oficial)** | https://www.zayedaward.org/pdfs/EligibleNominatorsBookletEN_2027.pdf |
+| **Contato da secretaria** | nominations@zayedaward.org · WhatsApp: +971 564 111 226 |
+
+---
+
+## ⚠️ Atenção: Não é edital de projeto
+
+O Zayed Award **não financia projetos futuros**. É um prêmio que reconhece **trabalho humanitário já realizado** por indivíduos ou organizações. Funciona por **nomeação** — alguém indica o candidato.
+
+| Pode | Não pode |
+|---|---|
+| ✅ Nomear instituição que já atua na causa | ❌ Auto-nomeação |
+| ✅ Inscrever organização ou indivíduo | ❌ Submeter projeto para aprovação |
+| ✅ Usar o prêmio para ampliar trabalho existente | ❌ Concorrer sem nomeador elegível |
+
+---
+
+## 📋 Regulamento resumido
 
 | Aspecto | Regra |
 |---|---|
@@ -18,98 +35,79 @@ O Zayed Award é um prêmio humanitário internacional que reconhece **trabalho 
 | **Auto-nomeação** | ❌ **Não aceita** |
 | **Candidato** | Indivíduo OU organização/coletivo |
 | **Idiomas** | Inglês, Árabe ou Francês |
+| **Prazo** | **1º de outubro de 2026 (23:59 GMT)** |
 | **Prêmio** | USD $1.000.000 |
-
-### Cronograma 2027
-
-| Fase | Data |
-|---|---|
-| Abertura das nomeações | 13 de abril de 2026 |
-| **Fechamento** | **1º de outubro de 2026 (23:59 GMT)** |
-| Revisão do comitê julgador | Dezembro de 2026 |
-| Cerimônia em Abu Dhabi | Fevereiro de 2027 |
-
-✅ **Ainda temos tempo** — faltam ~3 meses.
 
 ### Critérios de Avaliação
 
-1. **Contribuições** para a promoção da fraternidade global, solidariedade, justiça e paz mundial
+1. **Contribuições** para fraternidade global, solidariedade, justiça e paz mundial
 2. **Impacto na comunidade local**; ser modelo e inspirar outros
-3. **Inovação** para encontrar novas formas de fomentar fraternidade e colaboração
-4. **Reconhecimento** de organizações internacionais e membros da comunidade
+3. **Inovação** para fomentar fraternidade e colaboração
+4. **Reconhecimento** de organizações internacionais e comunidade
+
+> 📄 Regulamento completo: [Eligible Nominators Guide PDF](https://www.zayedaward.org/pdfs/EligibleNominatorsBookletEN_2027.pdf) (10 páginas)
 
 ---
 
-## 📝 Processo de Nomeação — 2 Etapas
+## 📝 Passo a passo da nomeação
 
-### Etapa 1: Informações do Nomeador (online)
+### Etapa 1 — Nomeador preenche dados pessoais
 
-| Campo | Obrigatório |
-|---|---|
-| Primeiro nome | ✅ |
-| Último nome | ✅ |
-| E-mail | ✅ |
-| Telefone | ❌ (opcional) |
-| País | ✅ |
-| Documento de identidade (upload) | ✅ (comprovar elegibilidade) |
+Acesse https://www.zayedaward.org/en/nomination e preencha:
 
-### Etapa 2: Documentos do Candidato (upload)
+| Campo | Obrigatório | Observação |
+|---|---|---|
+| Primeiro nome | ✅ | |
+| Último nome | ✅ | |
+| E-mail | ✅ | |
+| Telefone | ❌ | Opcional |
+| País | ✅ | Selecionar Brasil |
+| Documento de identidade | ✅ | Upload para comprovar elegibilidade |
+
+### Etapa 2 — Upload dos documentos do candidato
 
 | Documento | Limite | Descrição |
 |---|---|---|
-| **Carta de nomeação** | Máx. 1.000 palavras | Carta de endosso explicando por que o candidato merece o prêmio |
-| **CV ou biografia** | — | Curriculum vitae atual do candidato |
-| **Evidências de apoio** | — | Comprovação das iniciativas do candidato |
+| **Carta de nomeação** | Máx. 1.000 palavras | Carta de endosso explicando por que merece o prêmio |
+| **CV ou biografia** | — | Currículo ou histórico da instituição |
+| **Evidências de apoio** | — | Fotos, relatórios, publicações que comprovem o impacto |
 
 ---
 
 ## 🎯 Estratégia ECOSALA
 
-### Quem pode ser o NOMEADOR (eligible nominator)
-
-Membros do ECOSALA que se enquadram nos perfis elegíveis:
+### NOMEADORES possíveis (membros do ECOSALA)
 
 | Membro | Perfil | Enquadramento |
 |---|---|---|
-| **Marcos Paron** | Doutor Microbiologia, professor IFSP Sertãozinho | **Acadêmico** ✅ |
-| **Joaquim Lauro Sando** | Eng. Agrônomo, líder MST Regional RP | **Liderança comunitária** ✅ |
-| **Vicente Borges** | Doutor Educação do Campo, professor IFB | **Acadêmico** ✅ |
+| **Marcos Paron** | Dr. Microbiologia, prof. IFSP Sertãozinho | **Acadêmico** ✅ |
+| **Joaquim Lauro Sando** | Eng. Agrônomo, MST Regional RP | **Liderança comunitária** ✅ |
+| **Vicente Borges** | Dr. Educação do Campo, prof. IFB | **Acadêmico** ✅ |
 | **André Blanco** | Arquiteto (PUC), Labiapa | **Profissional/Intelectual** ✅ |
 | **Gisele Vilela** | Pesquisadora Embrapa | **Acadêmica/Científica** ✅ |
 
-*Cada nomeador precisa fazer upload de documento de identidade.*
+*Cada nomeador precisa de documento de identidade para upload no formulário.*
 
-### Quem pode ser o CANDIDATO (nominee)
-
-Instituições que apoiam o coletivo e podem ser nomeadas (a definir pelo grupo):
+### CANDIDATOS possíveis (instituições a nomear)
 
 | Instituição | Perfil | Observação |
 |---|---|---|
-| **IFSP** | Instituto Federal — câmpus Sertãozinho | Marcos Paron (docente) — academia + extensão |
+| **IFSP** — câmpus Sertãozinho | Academia + extensão | Marcos Paron é docente |
 | **Centro de Formação do MST** | Formação de assentados | Vínculo direto com Joaquim e o território |
 | **Escola Nacional Florestan Fernandes** | Formação política e técnica | Referência nacional em educação do campo |
 
-*A definir pelo grupo de avaliação qual instituição melhor se enquadra nos critérios do prêmio.*
+*A definir pelo grupo qual melhor se enquadra nos critérios.*
 
-### O que precisa ser preparado
+### Checklist de preparação
 
-| Item | Prazo | Status |
+| Item | Prazo | Responsável |
 |---|---|---|
-| Definir instituição candidata | Até 01/10/2026 | ⬜ Pendente |
-| Escolher 1-2 nomeadores elegíveis | Até 01/10/2026 | ⬜ Pendente |
-| Carta de nomeação (1.000 palavras, em inglês) | Até 01/10/2026 | ⬜ Pendente |
-| Biografia institucional | Até 01/10/2026 | ⬜ Pendente |
-| Evidências de impacto (fotos, relatórios, publicações) | Até 01/10/2026 | ⬜ Pendente |
+| Definir instituição candidata | Até 01/10/2026 | ⬜ Grupo |
+| Escolher 1-2 nomeadores elegíveis | Até 01/10/2026 | ⬜ Grupo |
+| Redigir carta de nomeação (1.000 palavras, inglês) | Até 01/10/2026 | ⬜ |
+| Preparar biografia institucional | Até 01/10/2026 | ⬜ |
+| Reunir evidências de impacto (fotos, relatórios) | Até 01/10/2026 | ⬜ |
 
 ---
 
-## 🔗 Links Úteis
-
-- **Site oficial:** https://www.zayedaward.org/
-- **Portal de nomeação:** https://www.zayedaward.org/en/nomination
-- **Guia do Nomeador Elegível (PDF):** https://www.zayedaward.org/pdfs/EligibleNominatorsBookletEN_2027.pdf
-- **Contato:** nominations@zayedaward.org | WhatsApp: +971 564 111 226
-
----
-
-*Documento gerado em 26/06/2026 · Fonte: site oficial + Eligible Nominators Guide 2027*
+*Documento gerado em 26/06/2026 · Fonte: site oficial zayedaward.org + Eligible Nominators Guide 2027*
