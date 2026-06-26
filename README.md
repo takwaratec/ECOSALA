@@ -13,6 +13,14 @@ e tecnologias sociais, construindo demandas a partir da base.
 
 ---
 
+## 🌐 Site do Coletivo
+
+👉 **https://takwaratec.github.io/ECOSALA/**
+
+Lá você encontra tudo organizado: atas, projetos, editais, fichas técnicas e membros.
+
+---
+
 ## 📂 O que tem em cada pasta?
 
 | Pasta | O que contém |
