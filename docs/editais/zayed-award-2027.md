@@ -81,9 +81,15 @@ Membros do ECOSALA que se enquadram nos perfis elegíveis:
 
 ### Quem pode ser o CANDIDATO (nominee)
 
-A instituição que já apoia o coletivo e merece o reconhecimento:
+Instituições que apoiam o coletivo e podem ser nomeadas (a definir pelo grupo):
 
-> *(Identificar qual instituição — Comuna Terra? Centro de Formação? IFSP? Labiapa?)*
+| Instituição | Perfil | Observação |
+|---|---|---|
+| **IFSP** | Instituto Federal — câmpus Sertãozinho | Marcos Paron (docente) — academia + extensão |
+| **Centro de Formação do MST** | Formação de assentados | Vínculo direto com Joaquim e o território |
+| **Escola Nacional Florestan Fernandes** | Formação política e técnica | Referência nacional em educação do campo |
+
+*A definir pelo grupo de avaliação qual instituição melhor se enquadra nos critérios do prêmio.*
 
 ### O que precisa ser preparado
 
