@@ -1,7 +1,7 @@
 ---
 tipo: Ficha de Membro
 projeto: ECOSALA
-status: Preliminar (aguardando histórico da membro)
+status: Consolidado
 ---
 
 # Daniela Maciel
@@ -11,17 +11,31 @@ status: Preliminar (aguardando histórico da membro)
 | Campo | Dado |
 |---|---|
 | **Nome** | Daniela Maciel |
-| **Instituição** | Embrapa |
-| **Área** | Transferência de Tecnologia / Inovação |
+| **Instituição** | Embrapa Territorial |
+| **Área** | Transferência de Tecnologia / Avaliação de Impacto |
 | **Adicionada por** | Gisele Vilela (26/06/2026) |
 | **E-mail** | *A confirmar* |
 
+## Formação
+
+- **Doutorado** (concluído fevereiro/2026) — Avaliação de impacto da pesquisa, agenda orientada a desafios concretos
+- **Mestrado** — Interface entre transferência de tecnologia, inovação e agricultura familiar
+
+## Atuação Profissional
+
+- Embrapa Territorial — área de transferência de tecnologias
+- Monitoramento e identificação de mudanças/efetividade da pesquisa
+- Desenvolvimento de método específico para avaliar **TICs** (liderou o desenvolvimento)
+- Estruturação de modelos de avaliação para **agricultura familiar**
+- Como a pesquisa pode gerar **impacto real** no campo
+
 ## Notas
 
-- Entrou no ECOSALA em 26/06/2026, adicionada por Gisele Vilela
-- Atua na área de transferência de tecnologia na Embrapa
-- Tem proposta alinhada com os objetivos do grupo (conforme Gisele)
-- Já se reuniu com Marcos Paron antes de entrar no grupo
+- Trabalha com Gisele Vilela
+- Já conhecia Marcos Paron
+- Interessada em discutir tolerância (tema surgiu em proposta FINEP)
+- Doutorado recente — produção acadêmica em atualização
 
-> ⏳ **Aguardando histórico pessoal para complementar esta ficha.**  
-> Daniela foi consultada e vai enviar seu histórico em breve.
+---
+
+*Ficha atualizada em 26/06/2026 · Fonte: transcrição de áudio de apresentação*
