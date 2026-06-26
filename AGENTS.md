@@ -27,12 +27,21 @@ Coletivo de **12 pesquisadores, professores e profissionais** que atuam na retag
 | **Pandoc** | DOCX/ODT → MD | ✅ | `/usr/local/bin/pandoc` |
 | **PyMuPDF** (fitz) | Extração de texto de PDFs | ✅ | Python `import fitz` |
 | **python-docx** | Leitura/escrita DOCX | ✅ | Python `import docx` |
-| **ffmpeg** | Conversão de áudio (opus → wav) | ✅ | `/Users/.../miniconda3/bin/ffmpeg` |
-| **faster-whisper** | Transcrição de áudio | 🔄 Falha de rede — tentar novamente | `pip install faster-whisper` |
-| **pdfplumber** | PDF tabular | ❌ Falha de rede — tentar novamente | `pip install pdfplumber` |
+| **faster-whisper** | Transcrição de áudio | ✅ | via `conda run -n whisper_env` |
+| **pdfplumber** | PDF tabular | ⏳ Pendente (rede) | `pip install pdfplumber` |
+| **ffmpeg** (conda) | Conversão de áudio (opus → wav) | ✅ | `/Users/.../miniconda3/bin/ffmpeg` |
 
-### Workaround para áudio
-O gateway do Hermes (Telegram) já tem faster-whisper instalado. Áudios enviados pelo Telegram são transcritos automaticamente. Para áudios locais, converter com ffmpeg e transcrever com o gateway ou instalar whisper quando a rede estabilizar.
+### Uso do faster-whisper
+Para transcrever áudios, usar:
+```bash
+conda run -n whisper_env python3 -c "
+from faster_whisper import WhisperModel
+model = WhisperModel('base', device='cpu', compute_type='int8')
+segments, info = model.transcribe('caminho/do/audio.wav', language='pt')
+for seg in segments:
+    print(seg.text)
+"
+```
 
 ---
 
