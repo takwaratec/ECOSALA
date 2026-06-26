@@ -77,19 +77,21 @@ Os documentos .md abrem automaticamente no navegador:
 
 ---
 
-## 📚 Produção científica dos membros — como contribuir
+## 📚 Acervo científico
 
-As fichas individuais foram atualizadas com base em busca exaustiva em CrossRef, Google Scholar e Lattes.
-Para membros sem produção encontrada em bases indexadas (André Blanco, Joaquim Sando, Luci Okino, Murillo Miguel, Henrique Bueno e Luis Felipe), **nada foi localizado com DOI**.
+Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
+👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
 
-> 👉 **Se você tem artigos, teses ou capítulos publicados que não foram encontrados, abra uma Issue ou envie o link do seu Lattes/ORCID.** As fichas serão atualizadas.
+### Fichas individuais dos membros ECOSALA
+Disponíveis em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+
+> 👉 **Se você tem artigos, teses ou capítulos publicados que não foram encontrados, abra uma Issue ou envie o link do seu Lattes/ORCID.**
 
 
 ## 🤖 Sobre este repositório
 
 - **Linguagem:** Técnica, para público acadêmico e financiadores
 - **Atualização:** README atualizado sempre que um novo documento ou edital é adicionado
-- **Fichas científicas completas em:** [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
 
 ## 🔗 Repositórios irmãos
 
