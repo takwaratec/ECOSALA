@@ -42,7 +42,7 @@ A carta deve responder:
 | **2. Contexto** | Território, desafios ambientais e sociais, queimadas 2024 | `docs/historia.md`, `docs/territorio.md` |
 | **3. Ação** | Criação do Coletivo Terra Viva, mutirões, viveiro, reflorestamento | `docs/editais/juventude-solidaria-01-2026.md` |
 | **4. Impacto** | Jovens formados, mudas plantadas, área recuperada, engajamento campo-cidade | — *(coletar dados)* |
-| **5. Inovação** | Bambu como tecnologia social, forno MPTDF, PU vegetal, bioeconomia | `docs/projetos/viveiro-bambu-fabio-v1.md`, acervo científico |
+| **5. Visão de futuro** | Se premiado, o recurso será usado para escalar as soluções que já desenvolvemos | Saneamento ecológico, habitação de baixo carbono, biochar, estufas geodésicas (vide projeto Vaga Lúmen) |
 | **6. Reconhecimento** | Parcerias (IFSP, Embrapa, MST, Labiapa), editais submetidos | Fichas ECOSALA |
 | **7. Fechamento** | Síntese e recomendação | — |
 
@@ -103,6 +103,34 @@ A carta deve responder:
 | **📊 Relatório quantitativo** | Nº de mudas, jovens envolvidos, área recuperada, mutirões realizados | Murilo compila dados |
 | **📸 Fotos atuais** | Estado atual do viveiro, mutirões recentes | Grupo compartilha |
 | **📜 Linha do tempo** | 2024 → 2026: o que foi feito mês a mês | Fabio monta a partir do WhatsApp |
+
+---
+
+## 🚀 Visão de Futuro — O que fazer com o prêmio
+
+O regulamento não pergunta explicitamente "o que faria com o recurso", mas incluir isso na carta de nomeação fortalece a candidatura — mostra visão de escala.
+
+### Saneamento ecológico descentralizado
+- Fossas de evapotranspiração com bambu tratado em 100 lotes do Mário Lago
+- Biofiltros para águas cinzas — tecnologia de impacto zero no Aquífero Guarani
+
+### Habitação de baixo carbono
+- Protótipos de moradia modular com bambu + terra + argamassa ecológica
+- Domos geodésicos como alternativa rápida e resiliente
+
+### Biochar e regeneração de solos
+- Produção comunitária de biochar a partir de podas e resíduos agrícolas
+- Uso combinado com pirolenhoso (forno MPTDF) como defensivo natural
+
+### Estufas geodésicas
+- Multiplicar o modelo viveiro-estufa com estrutura de bambu
+- Capacitação de jovens como viveiristas — replicável em outros assentamentos
+
+### Trabalho em rede
+- O prêmio fortalece exatamente o que o **Vaga Lúmen** propõe: laboratório itinerante de permacultura, saneamento e moradia sustentável
+- Autonomia financeira para o ECOSALA atuar sem depender exclusivamente de editais
+
+> 💡 **Estratégia para a carta:** "A instituição já faz o trabalho na prática. O prêmio permitiria escalar de 10 para 100 famílias, multiplicando o impacto social e ambiental."
 
 ---
 
