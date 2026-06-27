@@ -1,6 +1,14 @@
 # 🎓 ECOSALA — Coletivo de Formação e Ação em Agroecologia
 
-> 🌱 **Bem Viver** — Este repositório é parte de um encontro de pensadores, pesquisadores e ativistas que articulam ciência, tecnologia social e saberes populares em torno do **Bem Viver**: a construção de um mundo onde a vida — humana e não-humana — seja o centro das relações econômicas, políticas e culturais. Nossos projetos integram agroecologia, bioconstrução com bambu, saneamento ecológico, bioeconomia amazônica e tecnologias regenerativas, sempre na escuta das comunidades e dos territórios.
+> 🌿 **Bem Viver** — Somos um encontro de trajetórias diversas que convergem em um propósito comum: a construção de mundos onde a vida, em todas as suas formas, ocupe o centro das relações sociais, econômicas e políticas.
+>
+> Não há aqui uma única disciplina, uma única origem ou uma única voz. Somos agrônomos, arquitetos, microbiologistas, engenheiros, educadoras, nutricionistas, psicólogas, gestoras comunitárias, desenvolvedores e pesquisadores autodidatas. Atuamos em institutos federais, centros de pesquisa, universidades, assentamentos da reforma agrária, Áreas de Proteção Ambiental e periferias urbanas.
+>
+> O que nos une não é um título, mas uma convicção: a de que a ciência deve servir à terra e aos povos que nela habitam. Trabalhamos com agroecologia e bioconstrução, com bambu e poliuretano vegetal, com saneamento ecológico e bioeconomia regenerativa, com tecnologias sociais que emergem do chão das comunidades e retornam a elas como autonomia.
+>
+> Este repositório é parte desse ecossistema — o **espaço coletivo** onde documentamos atas, projetos, editais e as articulações que fazem o grupo pulsar. Aqui o trabalho não é solitário: cada entrega carrega a marca de quem a construiu.
+>
+> Seja bem-vinda, bem-vindo. Há lugar para quem chega com vontade de aprender, contribuir e transformar.
 
 ## 🧭 O que é este repositório?
 
@@ -124,6 +132,7 @@ flowchart TB
     end
     subgraph Futuro["🔮 Novo"]
         FM[("🏭 Fábrica Modelo")]
+        NB[("💡 Novos Editais")]
     end
     AC -->|Referências| EC
     AC -->|Referências| VL
@@ -131,6 +140,8 @@ flowchart TB
     EC -->|Demandas| VL
     EC -->|Demandas| MJ
     VL -.->|Sinergia| FM
+    MJ -->|Demanda| NB
+    FM -->|Tecnologias| NB
 ```
 
 - **Juventude Solidária** (MSTJS): [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
