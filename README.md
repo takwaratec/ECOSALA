@@ -99,6 +99,18 @@ O acervo foi expandido com fichas de grande relevância para o advocacy e a fund
 
 Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/)
 
+### 🆕 Ferramentas de Gestão e Avaliação de Impacto — Daniela Maciel (Embrapa)
+
+A nova integrante do ECOSALA disponibilizou duas ferramentas de código aberto que se alinham diretamente ao modelo de governança do grupo:
+
+| Ferramenta | Função | Aplicação no ECOSALA | Link |
+|---|---|---|---|
+| **TerImpact Ex-Ante** | Sistema web de avaliação ex-ante e tramitação de projetos de pesquisa | Estrutura a metodologia de avaliação de impacto da proposta Vaga Lúmen e dá governança rastreável ao fluxo de projetos do grupo | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-terimpact-exante.md) — [🐙 GitHub](https://github.com/danimaciel/terimpact-exante) |
+| **AgroRadarEval** | Questionário que gera diagnóstico visual (gráfico radar) da maturidade de gestão do grupo em 8 dimensões | Autoavaliação do ECOSALA para identificar gargalos e comprovar capacidade de gestão para financiadores | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-agroradareval.md) — [📊 App](https://khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/) |
+| **Perfil Daniela Maciel** | Formação, publicações e repositórios | Doutora em Política Científica e Tecnológica (Unicamp), especialista em impacto e inovação agrícola | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/daniela-maciel.md) — [🐙 GitHub](https://github.com/danimaciel) |
+
+Estas ferramentas preenchem a lacuna de **métricas de impacto e governança** que o grupo precisava para qualificar suas propostas de edital e demonstrar maturidade de gestão a financiadores.
+
 ---
 
 ## 🔗 Ecossistema de repositórios
