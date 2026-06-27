@@ -110,9 +110,31 @@ Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientific
 
 ## 🔗 Repositórios irmãos
 
-- **Juventude Solidária** (MST): [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
+```mermaid
+flowchart TB
+    subgraph Central["🧠 Central"]
+        AC[("📚 Acervo Científico")]
+    end
+    subgraph Ativos["📋 Projetos"]
+        EC[("🌱 ECOSALA<br/>este repo")]
+        VL[("💰 Vaga Lúmen")]
+        MJ[("🌾 MSTJS")]
+    end
+    subgraph Futuro["🔮 Novo"]
+        FM[("🏭 Fábrica Modelo")]
+    end
+    AC -->|Referências| EC
+    AC -->|Referências| VL
+    AC -->|Referências| MJ
+    EC -->|Demandas| VL
+    EC -->|Demandas| MJ
+    VL -.->|Sinergia| FM
+```
+
+- **Juventude Solidária** (MSTJS): [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026)
 - **Vaga Lúmen** (FINEP): [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026)
 - **Análises Científicas**: [github.com/takwaratec/Analises-e-escrita-cientifica](https://github.com/takwaratec/Analises-e-escrita-cientifica)
+- **Fábrica Modelo** 🔮: Projeto em discussão com André/Maurílio — prototipagem industrial
 
 ---
 
