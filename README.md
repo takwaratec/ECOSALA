@@ -80,6 +80,32 @@ Disponíveis em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/
 
 > 👉 **Se você tem artigos, teses ou capítulos publicados que não foram encontrados, abra uma Issue ou envie o link do seu Lattes/ORCID.**
 
+### 🆕 Perfis de Pesquisadores e Análises COP30
+
+O acervo foi expandido com fichas de grande relevância para o advocacy e a fundamentação técnica do coletivo:
+
+**Perfis de Pesquisadores — Referências históricas da construção com bambu:**
+| Pesquisador | Ficha |
+|---|---|
+| Khosrow Ghavami (PUC-Rio) — Propriedades mecânicas do bambu | [perfil-khosrow-ghavami.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-khosrow-ghavami.md) |
+| Antônio L. Beraldo / Marco A. R. Pereira (UNICAMP) — Tratamentos, painéis, design | [perfil-beraldo-pereira.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-beraldo-pereira.md) |
+| Jayme Gonçalves (UNICAMP) — Geodésicas, estruturas | [perfil-jayme-goncalves.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-jayme-goncalves.md) |
+| Oscar Hidalgo — Bambu na construção civil (referência clássica) | [perfil-oscar-hidalgo.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-oscar-hidalgo.md) |
+| Simón Vélez — Geodésicas e estruturas emblemáticas | [perfil-simon-velez.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-simon-velez.md) |
+| José Ripper — Coberturas e conexões | [perfil-jose-ripper.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-jose-ripper.md) |
+
+**Análises Políticas e Advocacy — COP30 e políticas do bambu:**
+| Análise | Link |
+|---|---|
+| Dossiê COP30 | [ficha-dossie-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-dossie-cop30.md) |
+| Análise crítica: A Dupla Face da Liderança Climática Brasileira | [ficha-analise-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-analise-cop30.md) |
+| Floresta em Pé como ativo econômico | [ficha-floresta-em-pe.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-floresta-em-pe.md) |
+| Casa Floresta — Habitação bioinspirada | [ficha-casa-floresta-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-casa-floresta-cop30.md) |
+| Decreto Presidencial do Bambu | [ficha-decreto-presidencial-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-decreto-presidencial-bambu.md) |
+| Ultimato Climático — Resenha crítica | [resenha-ultimato-climatico.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/resenha-ultimato-climatico.md) |
+
+Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/)
+
 ---
 
 ## 🔗 Repositórios irmãos
