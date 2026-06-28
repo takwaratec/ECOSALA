@@ -130,4 +130,26 @@ for seg in segments:
 
 ---
 
+## Gestão de Frentes de Trabalho
+
+Consulte o arquivo `FRENTES_DE_TRABALHO.md` no repositório mestre (`Mentoria_Tecnologia_Takwara`) para o mapa completo de todas as frentes, seus repositórios, escopo, triagem e regras de fronteira.
+
+**Regra:** Toda conversa começa com a consulta a este documento para situar o contexto.
+
+---
+
+## Protocolo de Governança (Geral)
+
+Trabalhos de campo que envolvam comunidades parceiras só podem ser iniciados após observância das diretrizes de consentimento, proteção de dados e soberania territorial (Salvaguardas de Cancún — REDD+).
+Referência: [GOV_PROTOCOLO_SEGURANCA_CANCUN.md](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md)
+
+## Regras de Conduta para Documentos Públicos
+
+- **Filtro público vs. interno:** Codinomes internos (Frente X, "cozinha", etc.) NUNCA aparecem em documentos públicos. Parceiros externos veem apenas o nome real das tecnologias.
+- **MQTF** (Mulheres Que Tecem a Floresta) é sigla de uso interno. Em docs públicos, referenciar como "projeto de bioeconomia amazônica do consórcio UnB/UFAC/UFRR" com link ao repositório.
+- **Atribuição correta:** Cada autor com seu crédito. Conteúdo de chat/áudio/e-mail é delegado ao agente e atribuído ao autor correspondente.
+- **NUNCA fabricar citações.** Usar paráfrase explícita quando não houver transcrição literal verificada.
+
+---
+
 *AGENTS.md mantido pelo Hermes Agent · Tecnologia Takwara · 2026*
