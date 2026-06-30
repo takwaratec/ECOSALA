@@ -9,3 +9,10 @@ Thumbs.db
 __pycache__/
 *.pyc
 *.pyo
+
+# Transcrições de conversas
+**/WhatsApp Chat - */
+**/_chat*.txt
+*.txt
+*.wav
+*.opus

@@ -69,7 +69,7 @@ Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
 👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
 
 ### Fichas individuais dos membros ECOSALA
-Disponíveis em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/ecosala)
+Disponíveis em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala)
 
 > 👉 **Se você tem artigos, teses ou capítulos publicados que não foram encontrados, abra uma Issue ou envie o link do seu Lattes/ORCID.**
 
@@ -80,24 +80,24 @@ O acervo foi expandido com fichas de grande relevância para o advocacy e a fund
 **Perfis de Pesquisadores — Referências históricas da construção com bambu:**
 | Pesquisador | Ficha |
 |---|---|
-| Khosrow Ghavami (PUC-Rio) — Propriedades mecânicas do bambu | [perfil-khosrow-ghavami.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-khosrow-ghavami.md) |
-| Antônio L. Beraldo / Marco A. R. Pereira (UNICAMP) — Tratamentos, painéis, design | [perfil-beraldo-pereira.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-beraldo-pereira.md) |
-| Jayme Gonçalves (UNICAMP) — Geodésicas, estruturas | [perfil-jayme-goncalves.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-jayme-goncalves.md) |
-| Oscar Hidalgo — Bambu na construção civil (referência clássica) | [perfil-oscar-hidalgo.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-oscar-hidalgo.md) |
-| Simón Vélez — Geodésicas e estruturas emblemáticas | [perfil-simon-velez.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-simon-velez.md) |
-| José Ripper — Coberturas e conexões | [perfil-jose-ripper.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/perfil-jose-ripper.md) |
+| Khosrow Ghavami (PUC-Rio) — Propriedades mecânicas do bambu | [perfil-khosrow-ghavami.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-khosrow-ghavami.md) |
+| Antônio L. Beraldo / Marco A. R. Pereira (UNICAMP) — Tratamentos, painéis, design | [perfil-beraldo-pereira.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-beraldo-pereira.md) |
+| Jayme Gonçalves (UNICAMP) — Geodésicas, estruturas | [perfil-jayme-goncalves.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-jayme-goncalves.md) |
+| Oscar Hidalgo — Bambu na construção civil (referência clássica) | [perfil-oscar-hidalgo.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-oscar-hidalgo.md) |
+| Simón Vélez — Geodésicas e estruturas emblemáticas | [perfil-simon-velez.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-simon-velez.md) |
+| José Ripper — Coberturas e conexões | [perfil-jose-ripper.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-jose-ripper.md) |
 
 **Análises Políticas e Advocacy — COP30 e políticas do bambu:**
 | Análise | Link |
 |---|---|
-| Dossiê COP30 | [ficha-dossie-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-dossie-cop30.md) |
-| Análise crítica: A Dupla Face da Liderança Climática Brasileira | [ficha-analise-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-analise-cop30.md) |
-| Floresta em Pé como ativo econômico | [ficha-floresta-em-pe.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-floresta-em-pe.md) |
-| Casa Floresta — Habitação bioinspirada | [ficha-casa-floresta-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-casa-floresta-cop30.md) |
-| Decreto Presidencial do Bambu | [ficha-decreto-presidencial-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/ficha-decreto-presidencial-bambu.md) |
-| Ultimato Climático — Resenha crítica | [resenha-ultimato-climatico.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/tecnologia-takwara/resenha-ultimato-climatico.md) |
+| Dossiê COP30 | [ficha-dossie-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-dossie-cop30.md) |
+| Análise crítica: A Dupla Face da Liderança Climática Brasileira | [ficha-analise-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-analise-cop30.md) |
+| Floresta em Pé como ativo econômico | [ficha-floresta-em-pe.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-floresta-em-pe.md) |
+| Casa Floresta — Habitação bioinspirada | [ficha-casa-floresta-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-casa-floresta-cop30.md) |
+| Decreto Presidencial do Bambu | [ficha-decreto-presidencial-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-decreto-presidencial-bambu.md) |
+| Ultimato Climático — Resenha crítica | [resenha-ultimato-climatico.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/resenha-ultimato-climatico.md) |
 
-Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analyses/tecnologia-takwara/)
+Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/tecnologia-takwara/)
 
 ### 🆕 Ferramentas de Gestão e Avaliação de Impacto — Daniela Maciel (Embrapa)
 
@@ -105,9 +105,9 @@ A nova integrante do ECOSALA disponibilizou duas ferramentas de código aberto q
 
 | Ferramenta | Função | Aplicação no ECOSALA | Link |
 |---|---|---|---|
-| **TerImpact Ex-Ante** | Sistema web de avaliação ex-ante e tramitação de projetos de pesquisa | Estrutura a metodologia de avaliação de impacto da proposta Vaga Lúmen e dá governança rastreável ao fluxo de projetos do grupo | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-terimpact-exante.md) — [🐙 GitHub](https://github.com/danimaciel/terimpact-exante) |
-| **AgroRadarEval** | Questionário que gera diagnóstico visual (gráfico radar) da maturidade de gestão do grupo em 8 dimensões | Autoavaliação do ECOSALA para identificar gargalos e comprovar capacidade de gestão para financiadores | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/ficha-agroradareval.md) — [📊 App](https://khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/) |
-| **Perfil Daniela Maciel** | Formação, publicações e repositórios | Doutora em Política Científica e Tecnológica (Unicamp), especialista em impacto e inovação agrícola | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analyses/ecosala/daniela-maciel.md) — [🐙 GitHub](https://github.com/danimaciel) |
+| **TerImpact Ex-Ante** | Sistema web de avaliação ex-ante e tramitação de projetos de pesquisa | Estrutura a metodologia de avaliação de impacto da proposta Vaga Lúmen e dá governança rastreável ao fluxo de projetos do grupo | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-terimpact-exante.md) — [🐙 GitHub](https://github.com/danimaciel/terimpact-exante) |
+| **AgroRadarEval** | Questionário que gera diagnóstico visual (gráfico radar) da maturidade de gestão do grupo em 8 dimensões | Autoavaliação do ECOSALA para identificar gargalos e comprovar capacidade de gestão para financiadores | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-agroradareval.md) — [📊 App](https://khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/) |
+| **Perfil Daniela Maciel** | Formação, publicações e repositórios | Doutora em Política Científica e Tecnológica (Unicamp), especialista em impacto e inovação agrícola | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/daniela-maciel.md) — [🐙 GitHub](https://github.com/danimaciel) |
 
 Estas ferramentas preenchem a lacuna de **métricas de impacto e governança** que o grupo precisava para qualificar suas propostas de edital e demonstrar maturidade de gestão a financiadores.
 
