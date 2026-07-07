@@ -35,7 +35,7 @@ A reunião foi convocada por Marcos Paron como retomada dos trabalhos do segundo
 | **Proponente** | ICT ou empresa executora principal com cadastro na Plataforma FINEP |
 
 **Encaminhamentos:**
-- [ ] Definir empresa patrocinadora (André sugeriu contato na BIA; Daniela sugeriu montadoras como Volkswagen; Fabio tem pessoa com ligação FINEP para orientar cadastro)
+- [ ] Definir empresa patrocinadora (André sugeriu contato na BIA; Daniela sugeriu montadoras como Volkswagen; Fabio (maurílio) tem pessoa com ligação FINEP para orientar cadastro)
 - [ ] Verificar cadastro FINEP de todos os envolvidos (Gisele alertou que cadastro irregular é motivo de desclassificação)
 - [ ] Estruturar proposta completa até início de agosto (Gisele alertou que o prazo é curto — não dá para esperar até agosto para começar)
 - [ ] Dividir tarefas entre os participantes (cada um com sua contribuição técnica)

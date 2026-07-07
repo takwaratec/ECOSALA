@@ -50,14 +50,16 @@ plugins:
 
 nav:
   - Início: index.md
-  - 📋 ATA de Reuniões:
+  - 📋 ATAS de Reuniões:
     - Memorial 05/05/2026: ata-05-05-2026.md
-    - Reuniões e Transcrições: 12_REUNIOES/
+    - ATA 07/07/2026 — FINEP + EcoSala: 12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md
+    - 📁 Transcrições e Memoriais (pasta): 12_REUNIOES/
   - 🚐 Projeto ECOSALA Itinerante: ecosala-itinerante.md
   - 📢 Editais:
     - Zayed Award 2027: editais/zayed-award-2027.md
     - Dossiê Zayed: editais/zayed-award-2027-dossie.md
     - FINEP Mais Inovação: editais/finep-mais-inovacao.md
+    - 📄 Esboço Formulário FINEP (em construção): editais/esboco-formulario-finep.md
   - 💰 BNDES Bioinsumos:
     - Formulário Espelho: 10_BNDES_BIOINSUMOS/BNDES_BIOINSUMOS_FORMULARIO_ESPELHO.md
     - Gabarito: 10_BNDES_BIOINSUMOS/GABARITO_BNDES_BIOINSUMOS_ECOSALA.md
@@ -65,6 +67,8 @@ nav:
   - 📚 Estudos Técnicos:
     - Biochar e Agricultura Familiar: 11_ESTUDOS_TECNICOS/Bioinsumos BNDES_ Biochar e Agricultura Familiar.md
     - Nota Técnica Biochar: 11_ESTUDOS_TECNICOS/NOTA_TECNICA_BIOCHAR_PIROLENHOSO_BAMBU.md
+    - Anamnese Território Atores: ANAMNESE_TERRITORIO_ATORES.md
   - 👥 Membros:
     - 📎 Fichas de todos os membros no Acervo Científico: https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/ecosala/
   - 🔗 Acervo Científico: https://takwaratec.github.io/Analises-e-escrita-cientifica/
+  - 🔗 Vaga Lumén (consulta — FINEP): https://github.com/takwaratec/fundo-vaga-lumen-2026
