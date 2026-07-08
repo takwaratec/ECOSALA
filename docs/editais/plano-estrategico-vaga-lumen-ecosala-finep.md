@@ -32,10 +32,43 @@ status: Rascunho para Revisao do Grupo
 ## 2. Estrutura da Proposta "Puro-Sangue"
 
 ### 2.1. Conceito Central
+| **Joaquim Sando** | Coordenador Regional MST/SP — elo com assentamentos e acampamentos | Murillo (confirmado) |
+| **Empresa proponente** | Cooperativa do Assentamento Mario Lago ou associacao local via MST | Joaquim + Murillo |
 
-> Unificar a **expertise dos membros do ECOSALA** em uma proposta que realiza **diagnostico de area** (molde MQTF), criando um **ecossistema completo de dores e curas** com base no Acervo Cientifico, consolidando uma **metodologia de acessibilidade a informacao** aplicada a territorios identificados, consultados e em conformidade com as **Salvaguardas de Cancun**.
+### 2.2. O Ecossistema Vivo: Pessoas, Ciencia e Bambu
 
-### 2.2. Os 4 Pilares
+O projeto se estrutura como um **ecossistema vivo** onde o bambu e o fio condutor que conecta:
+
+| Dimensao | Problema | Solucao | Ator |
+|----------|----------|---------|------|
+| **Geracao de renda** | Assentamentos sem fonte de renda estavel | Cadeia produtiva do bambu (colmos, briquetes, biochar, artesanato) | MST + Industria (Holambra) |
+| **Habitacao rural** | Moradias insalubres nos assentamentos | Modulos construtivos de bambu + PU vegetal (baratos, rapidos, duráveis) | ECOSALA + Labiapa |
+| **Infraestrutura** | Falta de saneamento, energia, agua | Sistemas descentralizados (biofiltro, fossa ecologica, energia solar) | Embrapa + IFSP |
+| **Regularizacao territorial** | Burocracia e falta de documentacao (CAF) | App offline + georreferenciamento + assistencia tecnica | Fabio + Joaquim |
+| **Acesso ao conhecimento** | Isolamento informacional | Canteiro-escola itinerante + plataforma digital | ECOSALA + Marcas |
+
+### 2.3. Estrategia de Engajamento Corporativo
+
+O bambu como **mote sedutor** para engajar o setor privado:
+
+| Parceiro Potencial | Gatilho | Abordagem |
+|--------------------|---------|-----------|
+| **Itausa** (Itau) | Vitrine: estrutura de bambu (sombreiro na area externa da sede SP) | Convidar a inspirar projetos similares em espacos comunitarios |
+| **Holambra** (agroindustria) | Capital regional, interesse em bioeconomia | Cadeia produtiva do bambu como novo negocio |
+| **Fundacao Banco do Brasil** | Edital de desenvolvimento regional | Contrapartida ou cofinanciamento |
+| **Fundacao Bradesco** | Programas de educacao e renda | Escola itinerante + formacao |
+| **Fundacao Itau** | Cultura e sustentabilidade | Espacos comunitarios de bambu |
+| **Volkswagen** | Responsabilidade social na regiao | Apoio a infraestrutura nos assentamentos |
+
+> **Mote:** "O sombreiro de bambu que protege a sede do Itausa mostra que sustentabilidade e sofisticacao caminham juntas. Nos assentamentos, o mesmo material pode gerar renda, moradia e dignidade."
+
+### 2.4. Comite de Atracao de Investimento Social
+
+| Membro | Funcao | Alvo |
+|--------|--------|------|
+| Andre Blanco | Apresentacao conceitual e arquitetonica | Itausa, fundacoes |
+| Joaquim Sando | Conexao com territorio e MST | Volks, FBB |
+| Fabio Takwara | Curadoria tecnico-cientifica | Holambra, fundacoes |
 
 | Pilar | Descricao | Responsavel | Base no Acervo |
 |-------|-----------|-------------|----------------|
