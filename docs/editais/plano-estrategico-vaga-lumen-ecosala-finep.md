@@ -62,6 +62,66 @@ O bambu como **mote sedutor** para engajar o setor privado:
 
 > **Mote:** "O sombreiro de bambu que protege a sede do Itausa mostra que sustentabilidade e sofisticacao caminham juntas. Nos assentamentos, o mesmo material pode gerar renda, moradia e dignidade."
 
+### 2.5. Sintese de Propositos — O Arquétipo da Oca, a Comitiva Mambembe e os 7 Pilares
+
+> *Texto conceitual que traduz a visão de Fabio Takwara para alinhamento entre ciência, docência, política e social — aplicável a quantos editais e prêmios forem cabíveis.*
+
+---
+
+#### A Geodésica como Arquétipo da Oca
+
+A cúpula geodésica — estrutura de bambu que emerge dos mutirões como a Oca dos tempos — não é apenas uma cobertura. É o **arquétipo do abrigo coletivo**, o espaço onde o círculo se fecha, onde a palavra circula e onde a decisão comunitária se materializa. Seu desenho, inspirado nas geometrias naturais de Buckminster Fuller, dialogando com as estruturas ancestrais indígenas, carrega em si a síntese entre o saber tradicional e a engenharia contemporânea. A geodésica sobre o caminhão não é enfeite: é a **insígnia visível** de que a comitiva chegou.
+
+#### A Comitiva Mambembe
+
+> *Como um grande mutirão, a comitiva chega em estilo mambembe, circense, mas com alta tecnologia e qualificação.*
+
+No caminhão, um **pardeiro de bambu** carrega o aparato pedagógico e instrucional — não como estoque, mas como **cenário vivo** que se monta e desmonta. O mutirão não é evento, é método. A comitiva não é visita, é **imanência**: ela se instala, cose relações, planta mudas, ergue paredes, canta, ensina e aprende. O bambu é o veículo — literal e metafórico — que transporta conhecimento, dignidade e possibilidade.
+
+#### Os 7 Pilares e as 7 Lições
+
+A relação com o bambu, fio condutor do projeto, se desdobra nos **7 pilares da tecnologia social** e nas **7 lições da jornada do mentorado** (Mentoria Takwara):
+
+| Pilar | Lição | Materialização no Projeto |
+|:-----:|-------|--------------------------|
+| **Ecologia do Bambu** | Conhecer a planta, seu ciclo e seu território | Mapeamento de biomassas (Guadua, Phyllostachys) nos territórios |
+| **Tratamento sem Veneno** | Diquada + Pirolenhoso + PU | Protocolo de termorretificação — alternativa ao boro carcinogênico |
+| **PU Vegetal** | Da mamona ao biocompósito | Impermeabilização, adesão estrutural, espuma expansiva |
+| **Engenharia Industrial** | Do artesanal ao fabril | Máquinas T03-T07: resinador, misturador, prensas |
+| **Bioeconomia Circular** | Nada se perde, tudo se transforma | Biochar, briquetes, ácido pirolenhoso, energia |
+| **Governança Comunitária** | O território decide | Salvaguardas de Cancún, Plataforma Brasil, comitê curador |
+| **Ecoformação Permanente** | Ensinar é aprender fazendo | Canteiro-escola itinerante, multiplicadores locais |
+
+> Cada pilar carrega uma lição que não é técnica — é ética. Da ecologia à governança, o que se ensina é o cuidado: com a planta, com a terra, com o outro.
+
+#### A Filosofia de Marcos Paron: Transformação das Matrizes de Relação
+
+Marcos Paron, convocante deste grupo, articulador incansável, carrega uma retórica filosófica que fundamenta o projeto: a **transformação das matrizes de relação** — do homem com a terra, do técnico com o comunitário, do saber acadêmico com o saber popular. Sua perspectiva de **ecoformação e empreendedorismo rural** em conceitos modernos e de alta qualidade intelectual é o solo onde esta proposta germina. Seu alerta — *"projetos viram ruínas se não houver continuidade"* — é o lembrete de que a permanência precisa estar desenhada desde o início, não como desejo, mas como **estrutura de governança**.
+
+#### A Ética de Fundo: de Montaigne a Morin
+
+A proposta se assenta em três éticas que se entrelaçam:
+
+| Referência | Ética | Aplicação |
+|------------|-------|-----------|
+| **Montaigne** | *"Cada um chama de barbárie aquilo que não é seu costume"* | Escuta do território sem julgar — a curadoria não é top-down |
+| **Morin** | Complexidade e transdisciplinaridade | Nenhum problema é só técnico, só social ou só político — é tudo ao mesmo tempo |
+| **Permacultura** | Cuidar da terra, cuidar das pessoas, compartilhar o excedente | Os 3 princípios éticos como critérios de decisão do projeto |
+
+#### Do Alimento à Moradia Digna
+
+Múltiplos benefícios, integrados: a horta que alimenta, o bambu que abriga, a fossa que saneia, a energia que ilumina, a escola que forma, o mutirão que emancipa. Este é o **ecossistema completo de dores e curas** que a proposta "Puro-Sangue" ECOSALA + Vaga Lumen se propõe a demonstrar.
+
+---
+
+### 2.6. Roteiro de Modelagem (a lapidar)
+
+| Fase | Atividade | Formato | Prazo |
+|:----:|-----------|---------|:-----:|
+| **R01** | Validar este manifesto conceitual com o grupo | Reuniao | Proxima |
+| **R02** | Definir quais editais/alvos alem da FINEP (Zayed, fundacoes, premios) | Decisao coletiva | Julho |
+| **R03** | Modelar proposta-padrao reelaboravel para multiplos fins | Documento-base | Agosto |
+
 ### 2.4. Comite de Atracao de Investimento Social
 
 | Membro | Funcao | Alvo |
