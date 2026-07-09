@@ -1,5 +1,5 @@
 site_name: ECOSALA — Coletivo de Formação e Ação em Agroecologia
-site_description: Documentação do coletivo — atas, projetos, editais, fichas técnicas e membros
+site_description: Documentação do coletivo — atas, planos, editais e membros
 site_url: https://takwaratec.github.io/ECOSALA
 repo_url: https://github.com/takwaratec/ECOSALA
 repo_name: takwaratec/ECOSALA
@@ -25,7 +25,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    - navigation.sections
     - navigation.top
     - search.highlight
     - content.code.copy
@@ -50,26 +49,11 @@ plugins:
 
 nav:
   - Início: index.md
-  - 📋 ATAS de Reuniões:
-    - Memorial 05/05/2026: ata-05-05-2026.md
-    - ATA 07/07/2026 — FINEP + EcoSala: 12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md
-    - 📁 Transcrições e Memoriais (pasta): 12_REUNIOES/
+  - 🌀 Plano Estratégico Multiprojetos: editais/plano-estrategico-multiprojetos-ecosala.md
+  - 📋 ATA 07/07/2026: 12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md
   - 🚐 Projeto ECOSALA Itinerante: ecosala-itinerante.md
   - 📢 Editais:
-    - Zayed Award 2027: editais/zayed-award-2027.md
-    - Dossiê Zayed: editais/zayed-award-2027-dossie.md
     - FINEP Mais Inovação: editais/finep-mais-inovacao.md
-    - 📄 Esboço Formulário FINEP (em construção): editais/esboco-formulario-finep.md
-    - 🌀 Plano Estratégico Multiprojetos ECOSALA: editais/plano-estrategico-multiprojetos-ecosala.md
-  - 💰 BNDES Bioinsumos:
-    - Formulário Espelho: 10_BNDES_BIOINSUMOS/BNDES_BIOINSUMOS_FORMULARIO_ESPELHO.md
-    - Gabarito: 10_BNDES_BIOINSUMOS/GABARITO_BNDES_BIOINSUMOS_ECOSALA.md
-    - Minuta Ajustes: 10_BNDES_BIOINSUMOS/MINUTA_AJUSTES_BNDES_BIOINSUMOS.md
-  - 📚 Estudos Técnicos:
-    - Biochar e Agricultura Familiar: 11_ESTUDOS_TECNICOS/Bioinsumos BNDES_ Biochar e Agricultura Familiar.md
-    - Nota Técnica Biochar: 11_ESTUDOS_TECNICOS/NOTA_TECNICA_BIOCHAR_PIROLENHOSO_BAMBU.md
-    - Anamnese Território Atores: ANAMNESE_TERRITORIO_ATORES.md
-  - 👥 Membros:
-    - 📎 Fichas de todos os membros no Acervo Científico: https://takwaratec.github.io/Analises-e-escrita-cientifica/analyses/ecosala/
-  - 🔗 Acervo Científico: https://takwaratec.github.io/Analises-e-escrita-cientifica/
-  - 🔗 Vaga Lumén (consulta — FINEP): https://github.com/takwaratec/fundo-vaga-lumen-2026
+    - Zayed Award 2027: editais/zayed-award-2027.md
+  - 👥 Membros: https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/ecosala/
+  - 🔗 Acervo Científico: https://takwaratec.github.io/acervo-soberania-tecnologica/
