@@ -50,7 +50,7 @@ O ECOSALA reúne hoje **12 pesquisadores** com formações que cobrem todo o cic
 | **Murillo Miguel** | Desenvolvedor | Terra Viva/MST | Operação de campo, diagnóstico territorial, demandas Mário Lago | **Ponte com o território.** Levantamento de dores, app CAF offline |
 | **Fabio Takwara** | Autodidata | Tecnologia Takwara | IA, acervo científico, PU Vegetal, documentação | **Curadoria, agentes de IA, protocolo de tratamento do bambu** |
 | **Joaquim Sando** | Eng. Agrônomo | MST RP | Articulação territorial, cooperativas | Conexão MST, levantamento Mário Lago |
-| **Vicente Borges** | Dr. Educação | IFB | Bambu, MPTDF | Bambu como vetor pedagógico |
+| **Vicente Borges** | Dr. Educação do Campo | IFB Planaltina | Educação do Campo, pedagogia da alternância, Núcleo ECOA (agroecologia c/ adobe e bambu) | Coautor do MPTDF (c/ Fabio). Articulação institucional IFB |
 | **Raphaela Palma** | Nutrição + Psicologia | USP | Saúde integral | Dimensão saúde nos assentamentos |
 | **Luci Okino** | Gestão comunitária | Estação Luz | Espaço físico | Acolhida, logística |
 | **Henrique Bueno** | Direito, TI | Estação Luz | Gestão, jurídico | Marco legal, contratos |
@@ -307,7 +307,7 @@ O ECOSALA já nasce com suas bússolas: as **7 Lições do Bambu** e os **7 Pila
 | **Fabio** | Consolidar acervo. Adaptar template MQTF. Coordenar escrita. Disponibilizar protocolo de tratamento | Contínuo |
 | **Joaquim** | Apoiar Murillo. Dados socioeconômicos dos assentamentos | Julho |
 | **Raphaela** | Preparar contribuição da dimensão saúde para a proposta | Agosto |
-| **Vicente** | Contribuição bambu-pedagógica | Agosto |
+| **Vicente** | Articulação IFB Planaltina, Núcleo ECOA, pedagogia da alternância | Agosto |
 | **Henrique/Luci/Luis Felipe** | Apoio conforme demanda | — |
 
 ---
