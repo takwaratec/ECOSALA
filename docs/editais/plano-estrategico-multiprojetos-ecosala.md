@@ -13,12 +13,15 @@ status: Para Revisão e Validação do Grupo
 
 > Documento-base de diretrizes estratégicas para apreciação do conselho gestor.
 > Unifica as frentes de ação territorial, acadêmica e pedagógica do Coletivo ECOSALA,
-> sob a convocação do Prof. Dr. Marcos Paron (IFSP) e inspirado nas **7 Lições do Bambu**
-> e nos **7 Pilares de Edgar Morin** para a educação do futuro.
+> sob a convocação do Prof. Dr. Marcos Paron (IFSP).
 >
-> A tecnologia Takwara (tratamento de bambu, PU vegetal) é **uma das ferramentas**
-> neste ecossistema — não o seu centro. O centro é a **ecoformação territorial**,
-> a transformação das matrizes de relação entre campo, ciência e cidade.
+> A bússola filosófica que orienta este plano — as **7 Lições do Bambu** e os
+> **7 Pilares de Edgar Morin** para a educação do futuro — é uma concepção de
+> **Fabio Takwara**, que chega ao grupo com uma bagagem complexa e autodidata,
+> integrando-se com inclusão e equidade. A tecnologia Takwara (tratamento de bambu,
+> PU vegetal) é **uma das ferramentas** neste ecossistema — não o seu centro.
+> O centro é a **ecoformação territorial**, a transformação das matrizes de
+> relação entre campo, ciência e cidade.
 
 ---
 
@@ -241,7 +244,7 @@ O ECOSALA já nasce com suas bússolas: as **7 Lições do Bambu** e os **7 Pila
 | Pilar Operacional | Descrição | Responsável | Ferramenta |
 |-------------------|-----------|-------------|------------|
 | **1. Diagnóstico Participativo** | Mapeamento de dores e potencialidades | Murillo + Daniela (TerImpact) | Protocolo MQTF + Cancún + AgroRadar |
-| **2. Curadoria de Tecnologias** | Seleção de soluções do acervo | Gisele + Marcos | Fichas Cavichiolli (546+ fichas) |
+| **2. Curadoria de Tecnologias** | Seleção de soluções para cada dor identificada — o acervo científico (546+ fichas) foi integralmente criado por Fabio Takwara, e sua curadoria será progressivamente compartilhada com o grupo | Todos os membros | Fichas Cavichiolli (546+ fichas) |
 | **3. Canteiro-Escola Itinerante** | Formação prática nos modais | André + Fabio | Vaga Lúmen + EcoSala |
 | **4. Governança e Consentimento** | Protocolo de acesso, Plataforma Brasil | Gisele + Fabio | Cancún + Plataforma Brasil |
 
