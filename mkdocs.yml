@@ -4,7 +4,10 @@ site_url: https://takwaratec.github.io/ECOSALA
 repo_url: https://github.com/takwaratec/ECOSALA
 repo_name: takwaratec/ECOSALA
 edit_uri: edit/main/docs/
-copyright: © ECOSALA, 2026. CC BY 4.0
+copyright: "© ECOSALA, 2026 · Organização documental e infraestrutura digital: Tecnologia Takwara"
+
+extra:
+  generator: false
 
 theme:
   name: material
