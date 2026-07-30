@@ -1,6 +1,6 @@
 # 🎓 ECOSALA — Coletivo de Formação e Ação em Agroecologia
 
-> ⚠️ **Compartilhamento seletivo** — Este repositório não é de acesso público irrestrito. Recomendamos o compartilhamento apenas com pessoas que tenham vínculo direto com o propósito: cooperativas, pesquisadores, analistas de editais, avaliadores e orientadores. A entrada de novos membros no ecossistema se dá exclusivamente por conexão com um projeto irmão ativo — não por convite aberto.
+> ⚠️ **Repositório público** — O código, os documentos versionados e o site podem ser acessados publicamente. Somente materiais autorizados para divulgação devem ser commitados. Conteúdo interno ou restrito deve permanecer fora deste repositório.
 >
 > 🎋 **Acelerador de resultados, não vitrine** — Como o bambu, que não cresce isolado mas em rede de rizomas subterrâneos, cada repositório deste ecossistema só ganha sentido quando vinculado a um projeto real. Não expomos conhecimento para validação externa — aceleramos quem está na ponta.
 >
@@ -31,20 +31,20 @@
 
 ## 👥 Quem faz parte
 
-| Nome | Formação | Instituição | Área | E-mail |
-|---|---|---|---|---|
-| Marcos Paron | Agronomia, Dr. Microbiologia | IFSP | Microbiologia, ecoformação | paron@ifsp.edu.br |
-| André Blanco | Arquitetura (PUC) | Labiapa | Bioconstrução, geodésicas | arq.andreblanco@gmail.com |
-| Fabio Takwara | Autodidata | Tecnologia Takwara | Desenvolvedor IA, pesquisador autodidata em tecnologias sociais com bambu | fabiotakwara@gmail.com |
-| Gisele Vilela | Agronomia (UFLA) | Embrapa | Produção orgânica | gisele.vilela@embrapa.br |
-| Joaquim Sando | Eng. Agrônomo | MST RP | Articulação territorial | joaquimsando@gmail.com |
-| Vicente Borges | Agronomia, Dr. Educação | IFB | Bambu, MPTDF | vicente.silva@ifb.edu.br |
-| Raphaela Palma | Nutrição + Psicologia | USP | Saúde Integral | raphaelafmpalma@gmail.com |
-| Luci Okino | Gestão comunitária | Estação Luz | Espaço físico | estacao.luz.rp@gmail.com |
-| Murillo Miguel | Desenvolvedor web | Terra Viva | Operação de campo | mmiguel.skn@gmail.com |
-| Henrique Bueno | Direito, TI | Estação Luz | Gestão | bueno1963@proton.me |
-| Luis Felipe | Arquitetura | Labiapa | Projeto complementar | arqfelipearaujo@gmail.com |
-| **Daniela Maciel** 🆕 | Tecnologia/Transferência | Embrapa | Inovação, TT | *a confirmar* |
+| Nome | Formação | Instituição | Área |
+|---|---|---|---|
+| Marcos Paron | Agronomia, Dr. Microbiologia | IFSP | Microbiologia, ecoformação |
+| André Blanco | Arquitetura | Labiapa | Bioconstrução, geodésicas |
+| Fabio Takwara | Autodidata | Tecnologia Takwara | Tecnologias sociais, bambu e documentação |
+| Gisele Vilela | Agronomia | Embrapa | Produção orgânica |
+| Joaquim Sando | Engenharia Agronômica | MST RP | Articulação territorial |
+| Vicente Borges | Agronomia, Dr. Educação | IFB | Bambu e formação |
+| Raphaela Palma | Nutrição e Psicologia | USP | Saúde integral |
+| Luci Okino | Gestão comunitária | Estação Luz | Espaço físico |
+| Murillo Miguel | Desenvolvimento web | Terra Viva | Operação de campo |
+| Henrique Bueno | Direito e TI | Estação Luz | Gestão |
+| Luis Felipe | Arquitetura | Labiapa | Projeto complementar |
+| Daniela Maciel | Transferência de tecnologia | Embrapa | Inovação e avaliação de impacto |
 
 > 👤 **Daniela Maciel** entrou em 26/06/2026 (adic. por Gisele). Atua em transferência de tecnologia na Embrapa. Pedimos seu histórico pessoal para complementar a ficha.
 > 👥 **Também participam:** Leonardo e Reinaldo Tronto (IFSP Sertãozinho) — conectados por Marcos Paron.
@@ -63,53 +63,25 @@
 
 ---
 
-## 📚 Acervo científico
+## 📚 Acervo Soberania Tecnológica
 
-Pesquisas, fichas técnicas e referenciais para embasar novos projetos:
-👉 **https://takwaratec.github.io/Analises-e-escrita-cientifica/**
+O acervo científico e tecnológico do ecossistema está no:
 
-### Fichas individuais dos membros ECOSALA
-Disponíveis em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/ecosala)
+- [site público](https://takwaratec.github.io/acervo-soberania-tecnologica/);
+- [repositório GitHub](https://github.com/takwaratec/acervo-soberania-tecnologica);
+- [diretório de perfis e respaldo acadêmico](https://github.com/takwaratec/acervo-soberania-tecnologica/tree/main/docs/analyses/respaldo-academico).
 
-> 👉 **Se você tem artigos, teses ou capítulos publicados que não foram encontrados, abra uma Issue ou envie o link do seu Lattes/ORCID.**
+### Adesão dos participantes
 
-### 🆕 Perfis de Pesquisadores e Análises COP30
+Cada integrante da ECOSALA é convidado a encaminhar:
 
-O acervo foi expandido com fichas de grande relevância para o advocacy e a fundamentação técnica do coletivo:
+1. Currículo Lattes, ORCID e vínculo institucional verificável;
+2. uma apresentação profissional breve;
+3. até cinco trabalhos prioritários de sua autoria;
+4. links para as fontes integrais e DOI, ISBN ou ISSN, quando existentes;
+5. referências essenciais de sua área.
 
-**Perfis de Pesquisadores — Referências históricas da construção com bambu:**
-| Pesquisador | Ficha |
-|---|---|
-| Khosrow Ghavami (PUC-Rio) — Propriedades mecânicas do bambu | [perfil-khosrow-ghavami.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-khosrow-ghavami.md) |
-| Antônio L. Beraldo / Marco A. R. Pereira (UNICAMP) — Tratamentos, painéis, design | [perfil-beraldo-pereira.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-beraldo-pereira.md) |
-| Jayme Gonçalves (UNICAMP) — Geodésicas, estruturas | [perfil-jayme-goncalves.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-jayme-goncalves.md) |
-| Oscar Hidalgo — Bambu na construção civil (referência clássica) | [perfil-oscar-hidalgo.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-oscar-hidalgo.md) |
-| Simón Vélez — Geodésicas e estruturas emblemáticas | [perfil-simon-velez.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-simon-velez.md) |
-| José Ripper — Coberturas e conexões | [perfil-jose-ripper.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/perfil-jose-ripper.md) |
-
-**Análises Políticas e Advocacy — COP30 e políticas do bambu:**
-| Análise | Link |
-|---|---|
-| Dossiê COP30 | [ficha-dossie-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-dossie-cop30.md) |
-| Análise crítica: A Dupla Face da Liderança Climática Brasileira | [ficha-analise-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-analise-cop30.md) |
-| Floresta em Pé como ativo econômico | [ficha-floresta-em-pe.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-floresta-em-pe.md) |
-| Casa Floresta — Habitação bioinspirada | [ficha-casa-floresta-cop30.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-casa-floresta-cop30.md) |
-| Decreto Presidencial do Bambu | [ficha-decreto-presidencial-bambu.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/ficha-decreto-presidencial-bambu.md) |
-| Ultimato Climático — Resenha crítica | [resenha-ultimato-climatico.md](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/tecnologia-takwara/resenha-ultimato-climatico.md) |
-
-Acesse o acervo completo em: [github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/tecnologia-takwara/](https://github.com/takwaratec/Analises-e-escrita-cientifica/tree/main/docs/analises/tecnologia-takwara/)
-
-### 🆕 Ferramentas de Gestão e Avaliação de Impacto — Daniela Maciel (Embrapa)
-
-A nova integrante do ECOSALA disponibilizou duas ferramentas de código aberto que se alinham diretamente ao modelo de governança do grupo:
-
-| Ferramenta | Função | Aplicação no ECOSALA | Link |
-|---|---|---|---|
-| **TerImpact Ex-Ante** | Sistema web de avaliação ex-ante e tramitação de projetos de pesquisa | Estrutura a metodologia de avaliação de impacto da proposta Vaga Lúmen e dá governança rastreável ao fluxo de projetos do grupo | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-terimpact-exante.md) — [🐙 GitHub](https://github.com/danimaciel/terimpact-exante) |
-| **AgroRadarEval** | Questionário que gera diagnóstico visual (gráfico radar) da maturidade de gestão do grupo em 8 dimensões | Autoavaliação do ECOSALA para identificar gargalos e comprovar capacidade de gestão para financiadores | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/ficha-agroradareval.md) — [📊 App](https://khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/) |
-| **Perfil Daniela Maciel** | Formação, publicações e repositórios | Doutora em Política Científica e Tecnológica (Unicamp), especialista em impacto e inovação agrícola | [📄 ficha](https://github.com/takwaratec/Analises-e-escrita-cientifica/blob/main/docs/analises/ecosala/daniela-maciel.md) — [🐙 GitHub](https://github.com/danimaciel) |
-
-Estas ferramentas preenchem a lacuna de **métricas de impacto e governança** que o grupo precisava para qualificar suas propostas de edital e demonstrar maturidade de gestão a financiadores.
+Os materiais passam por curadoria documental antes da publicação. O acervo distingue produção científica, documento técnico, experiência profissional e formulação autoral. Textos integrais protegidos, dados pessoais e documentos internos não devem ser enviados para publicação.
 
 ---
 
@@ -156,4 +128,4 @@ Ou acesse os arquivos .md direto no navegador — abrem formatados automaticamen
 
 ---
 
-*Atualizado: 26/06/2026 · 12 membros · WhatsApp depurado · Tecnologia Takwara*
+*Atualizado: 30/07/2026 · 12 membros · documentação pública em revisão*

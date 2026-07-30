@@ -47,13 +47,28 @@ markdown_extensions:
 plugins:
   - search
 
+exclude_docs: |
+  10_BNDES_BIOINSUMOS/**
+  11_ESTUDOS_TECNICOS/**
+  12_REUNIOES/*.txt
+  12_REUNIOES/MEMORIAL_REUNIAO_2026-05-05*
+  ANAMNESE_TERRITORIO_ATORES.md
+  Cooperativas_de_manejo.md
+  Estufas_Geodesicas.md
+  a1.*
+  daniela-maciel.md
+  editais/**
+  mensagem-*.md
+
 nav:
   - Início: index.md
-  - 🌀 Plano Estratégico Multiprojetos: editais/plano-estrategico-multiprojetos-ecosala.md
-  - 📋 ATA 07/07/2026: 12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md
+  - 🧭 Diretrizes: DIRETRIZES_ORGANIZACAO_COMPARTILHAMENTO.md
+  - 🗂️ Inventário de publicação: INVENTARIO_PUBLICACAO_MKDOCS.md
   - 🚐 Projeto ECOSALA Itinerante: ecosala-itinerante.md
-  - 📢 Editais:
-    - FINEP Mais Inovação: editais/finep-mais-inovacao.md
-    - Zayed Award 2027: editais/zayed-award-2027.md
-  - 👥 Membros: https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/ecosala/
+  - 📋 Reuniões e organização:
+    - Reunião inaugural 05/05/2026: ata-05-05-2026.md
+    - Alinhamento 07/07/2026: 12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md
+    - Identidade e territórios 14/07/2026: 12_REUNIOES/2026-07-14_MEMORIA_REUNIAO_IDENTIDADE_TERRITORIOS.md
+    - Status e pauta 30/07/2026: 12_REUNIOES/2026-07-30_STATUS_PAUTA_ORGANIZACAO.md
+  - 👥 Perfis e respaldo acadêmico: https://github.com/takwaratec/acervo-soberania-tecnologica/tree/main/docs/analyses/respaldo-academico
   - 🔗 Acervo Científico: https://takwaratec.github.io/acervo-soberania-tecnologica/
