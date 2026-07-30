@@ -65,13 +65,13 @@ Os perfis estruturados são incorporados progressivamente ao [Acervo Soberania T
 
 ---
 
-## 🔗 Repositórios Irmãos
+## 🔗 Referência documental
 
-| Repositório | Link |
+| Acervo | Link |
 |---|---|
-| **Vaga Lúmen (FINEP)** | [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026) |
-| **MST Mário Lago** | [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026) |
 | **Acervo Soberania Tecnológica** | [Site público do Acervo](https://takwaratec.github.io/acervo-soberania-tecnologica/) |
+
+Outras integrações entre projetos somente serão apresentadas após revisão documental e alinhamento de propósitos entre os respectivos participantes.
 
 ---
 

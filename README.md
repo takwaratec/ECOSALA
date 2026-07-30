@@ -55,9 +55,7 @@
 
 | Edital | Prazo | Situação | Acessar |
 |---|---|---|---|
-| FINEP Mais Inovação — Vaga Lúmen | Fluxo contínuo | Em elaboração | [📄 abrir](https://github.com/takwaratec/fundo-vaga-lumen-2026) |
 | BNDES Bioinsumos | A confirmar | Minuta | [📄 abrir](https://github.com/takwaratec/ECOSALA/blob/main/docs/10_BNDES_BIOINSUMOS/GABARITO_BNDES_BIOINSUMOS_ECOSALA.md) |
-| Fundo Casa Socioambiental | 30/jun | Novo | [📄 abrir](https://github.com/takwaratec/plataforma-juventude-solidaria-2026/blob/main/docs/editais/editais.md) |
 | FEHIDRO | A confirmar | Não iniciado | `docs/editais/` |
 | **🏆 Zayed Award 2027** 🆕 | **01/10/2026** | **Rascunho** | [📄 dossiê](https://github.com/takwaratec/ECOSALA/blob/main/docs/editais/zayed-award-2027-dossie.md) |
 
@@ -81,39 +79,17 @@ Os materiais passam por curadoria documental antes da publicação. O acervo dis
 
 ---
 
-## 🔗 Ecossistema de repositórios
+## 🔗 Relação com o Acervo
 
 ```mermaid
 flowchart TB
-    subgraph Central["🧠 Acervo Científico"]
-        AC["📚 Fichas · Resenhas · Perfis<br/>👥 Pesquisadores · Avaliadores<br/>🔗 Lastro científico com DOI"]
-    end
-    subgraph Projetos["📋 Projetos Ativos"]
-        EC["🌱 ECOSALA · este repo<br/>👥 12 pesquisadores<br/>🔗 Atas · Projetos · Editais"]
-        VL["💰 Vaga Lúmen<br/>👥 Avaliadores FINEP<br/>🔗 Proposta estruturada"]
-        MJ["🌾 MSTJS<br/>👥 Cooperativas · Comunidades<br/>🔗 Viveiro-Educador"]
-    end
-    subgraph Futuro["🔮 Em Construção"]
-        FM["🏭 Fábrica Modelo<br/>André/Maurílio"]
-        NB["💡 Novos Editais"]
-    end
-    AC -->|"Fornece referências ABNT"| EC
-    AC -->|"Fornece referências ABNT"| VL
-    AC -->|"Fornece referências ABNT"| MJ
-    EC -->|"Demandas"| VL
-    EC -->|"Demandas"| MJ
-    VL -.->|"Sinergia"| FM
-    MJ -->|"Demanda"| NB
-    FM -->|"Tecnologias"| NB
+    AC["📚 Acervo Soberania Tecnológica<br/>Fichas · Resenhas · Perfis · Referências"]
+    EC["🌱 ECOSALA<br/>Atas · Projeto-base · Organização"]
+    AC -->|"Fornece referências verificadas"| EC
+    EC -->|"Indica autores e trabalhos"| AC
 ```
 
-| Repositório | O que é | Para quem | Relação com os irmãos |
-|---|---|---|---|
-| 📚 **Acervo Científico** | Memória técnica: fichas, resenhas, estados da arte com DOI | Pesquisadores, avaliadores de editais, orientadores | Fornece lastro científico para todos os projetos |
-| 🌱 **ECOSALA** | Coletivo de 12 pesquisadores: atas, projetos, articulação | Membros do coletivo, parceiros institucionais | Recebe lastro do Acervo; demanda editais para Vaga Lúmen e MSTJS |
-| 💰 **Vaga Lúmen** | Proposta FINEP Mais Inovação: saneamento, habitação, bambu | Avaliadores FINEP, proponente, equipe técnica | Transforma ciência do Acervo em projeto; recebe demandas do ECOSALA |
-| 🌾 **MSTJS** | Viveiro-Educador no Assentamento Mário Lago | Cooperativas, comunidades, financiadores | Ponte entre teoria e chão; capta editais próprios e articula com Fábrica Modelo |
-| 🔮 **Fábrica Modelo** | Prototipagem industrial — em discussão | André Blanco, Maurílio | Recebe sinergia da Vaga Lúmen; alimenta novos editais |
+Outras relações entre repositórios e projetos somente serão apresentadas após revisão fina dos documentos e alinhamento de propósitos entre os participantes.
 
 ---
 
