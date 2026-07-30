@@ -37,7 +37,7 @@ A ECOSALA está consolidando primeiro sua identidade, o projeto estruturante, os
 
 ## 📚 Participação no Acervo Soberania Tecnológica
 
-O acervo científico e tecnológico do ecossistema passou a ser mantido no repositório [Acervo Soberania Tecnológica](https://github.com/takwaratec/acervo-soberania-tecnologica) e em seu [site público](https://takwaratec.github.io/acervo-soberania-tecnologica/).
+O acervo científico e tecnológico do ecossistema passou a ser mantido no [site público do Acervo Soberania Tecnológica](https://takwaratec.github.io/acervo-soberania-tecnologica/).
 
 Os participantes da ECOSALA são convidados a contribuir com:
 
@@ -49,7 +49,7 @@ Os participantes da ECOSALA são convidados a contribuir com:
 
 O envio não implica publicação automática. Cada material passa por identificação, conferência da fonte, atribuição correta e classificação documental. Textos integrais protegidos, dados pessoais e documentos internos não são publicados.
 
-Os perfis já estruturados encontram-se em [respaldo acadêmico](https://github.com/takwaratec/acervo-soberania-tecnologica/tree/main/docs/analyses/respaldo-academico). Para aderir, cada participante pode encaminhar seus identificadores acadêmicos e uma relação inicial de até cinco trabalhos prioritários.
+Os perfis estruturados são incorporados progressivamente ao [Acervo Soberania Tecnológica](https://takwaratec.github.io/acervo-soberania-tecnologica/). Para aderir, cada participante pode encaminhar seus identificadores acadêmicos e uma relação inicial de até cinco trabalhos prioritários.
 
 ---
 
@@ -71,7 +71,7 @@ Os perfis já estruturados encontram-se em [respaldo acadêmico](https://github.
 |---|---|
 | **Vaga Lúmen (FINEP)** | [github.com/takwaratec/fundo-vaga-lumen-2026](https://github.com/takwaratec/fundo-vaga-lumen-2026) |
 | **MST Mário Lago** | [github.com/takwaratec/plataforma-juventude-solidaria-2026](https://github.com/takwaratec/plataforma-juventude-solidaria-2026) |
-| **Acervo Soberania Tecnológica** | [github.com/takwaratec/acervo-soberania-tecnologica](https://github.com/takwaratec/acervo-soberania-tecnologica) |
+| **Acervo Soberania Tecnológica** | [Site público do Acervo](https://takwaratec.github.io/acervo-soberania-tecnologica/) |
 
 ---
 

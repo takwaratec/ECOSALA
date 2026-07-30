@@ -65,11 +65,7 @@
 
 ## 📚 Acervo Soberania Tecnológica
 
-O acervo científico e tecnológico do ecossistema está no:
-
-- [site público](https://takwaratec.github.io/acervo-soberania-tecnologica/);
-- [repositório GitHub](https://github.com/takwaratec/acervo-soberania-tecnologica);
-- [diretório de perfis e respaldo acadêmico](https://github.com/takwaratec/acervo-soberania-tecnologica/tree/main/docs/analyses/respaldo-academico).
+O acervo científico e tecnológico do ecossistema está disponível no [site público do Acervo Soberania Tecnológica](https://takwaratec.github.io/acervo-soberania-tecnologica/).
 
 ### Adesão dos participantes
 
