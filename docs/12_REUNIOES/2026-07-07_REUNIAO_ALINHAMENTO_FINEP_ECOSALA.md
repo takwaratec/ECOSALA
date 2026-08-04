@@ -94,7 +94,7 @@ Fabio propôs desenvolver um **aplicativo móvel** para facilitar o cadastro de 
 
 ### 🔵 PRIORIDADE CONTÍNUA — Governança e Consentimento
 
-Fabio compartilhou o [Protocolo de Salvaguardas de Cancún](https://takwaratec.github.io/Mulheres-Tecem-Amazonia/03_DOSSIE_BNDES/02_GOVERNANCA_E_COMPLIANCE/GOV_PROTOCOLO_SEGURANCA_CANCUN.html) como referência de governança para projetos com comunidades. Gisele confirmou que a Embrapa já adota procedimentos similares e que todo projeto com pessoas deve ser aprovado na Plataforma Brasil (CEP).
+Fabio compartilhou as [Salvaguardas de Cancún da UNFCCC](https://redd.unfccc.int/fact-sheets/safeguards.html) como referência de governança para projetos com comunidades. Gisele confirmou que a Embrapa já adota procedimentos similares e que todo projeto com pessoas deve ser aprovado na Plataforma Brasil (CEP).
 
 Fabio também mencionou o **Prêmio Zayed** (US$ 1 milhão, sem prestação de contas) como oportunidade para o grupo, caso organizem a representação legal das comunidades.
 

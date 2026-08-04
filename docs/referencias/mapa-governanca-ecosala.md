@@ -58,9 +58,23 @@ Decisões urgentes ou operacionais podem ser tomadas pelas pessoas responsáveis
 - Codinomes e siglas internas não devem aparecer em documentos públicos.
 - Alterações relevantes de escopo, orçamento, participantes ou compromissos devem voltar à instância de decisão adequada.
 
-## 6. Salvaguardas para atuação territorial
+## 6. Salvaguardas de Cancún: referência e adaptação
 
-Nenhum trabalho de campo deverá começar sem definição de interlocução legítima, finalidade, consentimento, tratamento de dados, responsabilidades, segurança e forma de devolutiva. A atuação deve observar o [Protocolo de Governança, Segurança e Salvaguardas de Cancún](https://github.com/takwaratec/Mulheres-Tecem-Amazonia/blob/main/docs/01_GOVERNANCA/GOV_PROTOCOLO_SEGURANCA_CANCUN.md).
+As Salvaguardas de Cancún são um conjunto de salvaguardas para atividades de **REDD+**, estabelecido na Decisão 1/CP.16, apêndice I, parágrafo 2, da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC). Elas não são um protocolo criado pelo ECOSALA nem uma obrigação legal geral para qualquer projeto. Aqui, são apresentadas como referência de integridade socioambiental, adaptada ao escopo de cada iniciativa e sempre subordinada à legislação aplicável, aos protocolos comunitários e às autorizações necessárias.
+
+As sete salvaguardas são:
+
+1. ações complementares ou consistentes com programas florestais nacionais e convenções e acordos internacionais relevantes;
+2. estruturas de governança florestal nacionais transparentes e eficazes, considerando a legislação e a soberania;
+3. respeito aos conhecimentos e direitos dos povos indígenas e das comunidades locais, considerando obrigações internacionais, circunstâncias e leis nacionais;
+4. participação plena e efetiva das partes interessadas relevantes, especialmente povos indígenas e comunidades locais;
+5. coerência com a conservação das florestas naturais e da biodiversidade, sem conversão de florestas naturais, promovendo proteção, serviços ecossistêmicos e benefícios sociais e ambientais;
+6. ações para enfrentar riscos de reversão dos resultados;
+7. ações para reduzir o deslocamento de emissões.
+
+Para o ECOSALA, a aplicação prática dessa referência exige, no mínimo: interlocução legítima; informação acessível; participação efetiva; consentimento adequado à finalidade; proteção de conhecimentos, dados e imagens; respeito à soberania territorial; análise de riscos e impactos; devolutiva; e registro das decisões e autorizações. Em povos indígenas, quilombolas e demais povos e comunidades tradicionais, devem ser observados os direitos aplicáveis e os protocolos próprios de consulta.
+
+Fonte primária: [UNFCCC — Safeguards / REDD+](https://redd.unfccc.int/fact-sheets/safeguards.html) e [Decisão 1/CP.16 — documentos da UNFCCC](https://redd.unfccc.int/fact-sheets/unfccc-documents-relevant-for-redd.html). Esta seção é uma síntese orientativa; não substitui consulta jurídica, ética ou comunitária.
 
 ## 7. Pontos para validação do coletivo
 
