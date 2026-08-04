@@ -1,6 +1,6 @@
 # Inventário do Site Público
 
-**Revisão:** 30/07/2026
+**Revisão:** 04/08/2026
 
 ## Documentos incluídos
 
@@ -14,6 +14,11 @@
 | `12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md` | Memória consolidada, com pendências identificáveis |
 | `12_REUNIOES/2026-07-14_MEMORIA_REUNIAO_IDENTIDADE_TERRITORIOS.md` | Memória preliminar, explicitamente sujeita a validação |
 | `12_REUNIOES/2026-07-30_STATUS_PAUTA_ORGANIZACAO.md` | Situação e pauta pública sanitizada |
+| `12_REUNIOES/2026-08-04_ATA_REUNIAO_ORGANIZACAO_ECOSALA.md` | Ata de organização e encaminhamentos, explicitamente sujeita à validação das pessoas participantes |
+| `territorios/reforma-agraria-agrofloresta.md` | Orientação pública para colaboração territorial, com limites de representação e consentimento |
+| `referencias/mapa-governanca-ecosala.md` | Proposta inicial de governança, apresentada para discussão e validação coletiva |
+| `referencias/organizacao-civil-e-salvaguardas.md` | Nota de referência sobre formatos jurídicos, formalização, custos contábeis e vínculos institucionais |
+| `referencias/metodologias-planejamento-participativo.md` | Referência pública para preparação do encontro presencial |
 
 ## Conteúdo excluído da compilação
 
