@@ -18,6 +18,50 @@ Uma **associação privada sem fins lucrativos** é a alternativa inicial mais p
 
 As associações são formadas pela união de pessoas para fins não econômicos. Isso não impede obter receitas; impede distribuir lucro ou patrimônio a associados. A Lei nº 13.019/2014 define OSC como entidade privada sem fins lucrativos que reaplica integralmente seus resultados no objeto social.
 
+## 2.1. Ritos de formalização
+
+Caso o grupo decida constituir uma associação, o percurso típico é:
+
+1. validar propósito, sede, objeto social, governança, fontes de receita e responsabilidades;
+2. elaborar e revisar o estatuto, a convocação e a ata de constituição;
+3. realizar a assembleia de fundação, aprovar o estatuto e eleger a administração;
+4. registrar a ata e o estatuto no Cartório de Registro Civil de Pessoas Jurídicas competente;
+5. solicitar a inscrição no CNPJ e verificar viabilidade de nome, endereço e atividades;
+6. organizar conta bancária, procurações, arquivo, orçamento e controles financeiros;
+7. contratar ou designar apoio contábil para a escrituração e as obrigações acessórias aplicáveis;
+8. obter licenças, cadastros e certificações somente quando exigidos pela atividade, pelo município ou pelo financiador.
+
+Os fundadores podem preparar internamente a minuta do estatuto, a ata, a lista de presença, a governança, o orçamento e a matriz de responsabilidades. O cartório pode exigir ajustes formais; por isso, a versão final deve ser conferida conforme as regras locais. Não se presume que advogado seja obrigatório em todos os casos.
+
+## 2.2. Contabilidade: o que é obrigatório e o que pode ser interno
+
+O registro da associação e a obtenção do CNPJ não exigem, por si só, uma equipe contratada em dedicação integral. Porém, a entidade sem finalidade de lucro deve manter contabilidade regular e cumprir as obrigações tributárias e acessórias que incidirem sobre sua situação.
+
+| Atividade | Pode ser preparada internamente? | Observação |
+|---|---:|---|
+| Minuta do estatuto, ata e lista de presença | Sim | Conferir exigências do cartório local |
+| Governança, orçamento e política de reembolsos | Sim | Aprovação e registro em ata |
+| Arquivo de notas, recibos, contratos e extratos | Sim | Deve permitir rastreabilidade e prestação de contas |
+| Inscrição no CNPJ | Parcialmente | A Receita Federal informa que o responsável e o profissional contábil indicado assinam a solicitação |
+| Escrituração contábil e demonstrações | Não como simples livro-caixa informal | Deve observar as normas contábeis; a responsabilidade técnica deve ser assumida por profissional habilitado quando exigida |
+| Folha, encargos e obrigações de empregados | Não | Exige tratamento técnico e rotinas trabalhistas |
+| Declarações digitais, convênios e prestação de contas complexa | Não é recomendável | Avaliar profissional contábil desde o início da obrigação |
+
+Assim, o grupo pode reduzir custos preparando documentos e controles, mas não deve apresentar controles internos como substitutos automáticos da escrituração contábil. O Conselho Federal de Contabilidade orienta que entidades sem finalidade de lucro, independentemente do porte, mantenham contabilidade regular.
+
+## 2.3. Custos para tomada de decisão
+
+Os valores variam por município, cartório, volume de movimentação e complexidade da entidade. Devem ser cotados localmente e tratados como estimativas, não como tarifas nacionais fixas.
+
+| Categoria | Exemplos | Incidência |
+|---|---|---|
+| Constituição | Cartório, autenticações eventualmente exigidas, certificado digital e consulta de viabilidade | Geralmente inicial |
+| Contabilidade recorrente | Escrituração, demonstrações, declarações e atendimento técnico | Conforme contrato e movimentação |
+| Condicional | Folha, encargos, auditoria, convênios públicos, licenças e certificações | Somente se houver a situação correspondente |
+| Apoio interno | Estatuto preliminar, atas, arquivo, orçamento e controles | Pode ser feito pelos fundadores |
+
+Não é necessário obter qualificação como OSCIP para constituir uma associação. Também não existe, pela simples formalização, obrigação de contratar empregados, manter sede própria, abrir projetos ou operar com dedicação exclusiva.
+
 ## 2. Marco regulatório aplicável
 
 - **Código Civil, arts. 53 a 61:** associação, estatuto e assembleia.
@@ -53,9 +97,26 @@ Materiais e tecnologias criados no âmbito da Embrapa podem estar sujeitos a reg
 
 O caminho mais seguro é separar três conjuntos: conteúdo original do ECOSALA; material da Embrapa usado conforme sua licença; e conteúdo desenvolvido conjuntamente, sujeito a instrumento de parceria e às autorizações aplicáveis.
 
+### 5.1. Vínculos funcionais e ausência de dedicação automática
+
+A formalização do ECOSALA cria uma pessoa jurídica, mas não cria, por si só, dedicação exclusiva, alteração de jornada, vínculo empregatício ou representação da Embrapa, de Instituto Federal ou de qualquer outra instituição. Ser associado, fundador ou dirigente também não equivale automaticamente a exercer atividade profissional em nome da entidade.
+
+Cada integrante deve continuar sujeito ao seu regime funcional, contrato de trabalho, normas de integridade, regras de conflito de interesses, propriedade intelectual, uso de marca, equipamentos, dados e autorização para atividades externas. A participação pode ser voluntária, eventual ou delimitada por projeto, desde que compatível com essas regras.
+
+Para acolher as preocupações de Gisele, Daniela e Marcos, o ECOSALA deverá:
+
+- registrar que a participação é individual, salvo autorização institucional expressa;
+- não usar nome, cargo, logotipo, instalações, dados ou recursos da Embrapa/IF sem permissão;
+- não assumir compromissos, publicar posições ou assinar parcerias em nome dessas instituições;
+- consultar previamente as regras internas quando houver projeto, remuneração, propriedade intelectual, pesquisa com pessoas ou uso de infraestrutura institucional;
+- separar, nos documentos e na contabilidade, recursos e produtos do ECOSALA daqueles pertencentes às instituições de origem;
+- permitir que cada integrante declare impedimento, limite sua participação ou não assuma função formal sem sofrer pressão para dedicação exclusiva.
+
+Essa separação protege tanto as instituições quanto as pessoas participantes: a associação pode existir como estrutura autônoma e de baixa operação, enquanto cada integrante decide, dentro das regras aplicáveis, quando e como colaborar.
+
 ## 6. Próximo passo recomendado
 
-Antes de constituir a associação, validar: propósito, piloto territorial, governança, política financeira, política de dados e propriedade intelectual, além de consulta formal às instituições de origem de integrantes em dedicação exclusiva. A decisão de abrir CNPJ deve ocorrer quando a estrutura realmente for necessária para o plano de trabalho.
+Antes de constituir a associação, validar: propósito, piloto territorial, governança, política financeira, política de dados e propriedade intelectual, além de consulta formal às instituições de origem. O grupo deve obter cotações do cartório e de pelo menos dois profissionais contábeis, definindo o que será feito internamente e o que terá responsabilidade técnica contratada. A decisão de abrir CNPJ deve ocorrer quando a estrutura realmente for necessária para o plano de trabalho, sem pressupor dedicação exclusiva de qualquer integrante.
 
 ## Fontes principais
 
@@ -66,3 +127,6 @@ Antes de constituir a associação, validar: propósito, piloto territorial, gov
 - [Salvaguardas de REDD+](https://www.fundoamazonia.gov.br/pt/monitoramento-e-avaliacao/salvaguardas-de-redd/)
 - [Consulta Livre, Prévia e Informada em REDD+](https://www.gov.br/mma/pt-br/noticias/mma-discute-diretrizes-para-consulta-livre-previa-e-informada-em-iniciativas-de-redd)
 - [Licenciamento de ativos da Embrapa](https://www.embrapa.br/licenciamento)
+- [Receita Federal — inscrição de associação ou entidade no CNPJ](https://www.gov.br/pt-br/servicos/inscrever-no-cnpj)
+- [CFC — contabilidade em entidades sem fins lucrativos](https://cfc.org.br/tecnica/perguntas-frequentes/entidades-sem-finalidade-de-lucros/)
+- [CFC — perguntas frequentes sobre contabilidade em entidades sem fins lucrativos](https://cfc.org.br/fiscalizacao-etica-e-disciplina/perguntas-frequentes/contabilidade-em-entidades-sem-fins-lucrativos/)
