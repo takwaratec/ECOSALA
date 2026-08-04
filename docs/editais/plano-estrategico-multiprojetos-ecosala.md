@@ -50,7 +50,7 @@ O ECOSALA reúne hoje **12 pesquisadores** com formações que cobrem todo o cic
 | **Murillo Miguel** | Desenvolvedor | Terra Viva/MST | Operação de campo, diagnóstico territorial, demandas Mário Lago | **Ponte com o território.** Levantamento de dores, app CAF offline |
 | **Fabio Takwara** | Autodidata | Tecnologia Takwara | IA, acervo científico, PU Vegetal, documentação | **Curadoria, agentes de IA, protocolo de tratamento do bambu** |
 | **Joaquim Sando** | Eng. Agrônomo | MST RP | Articulação territorial, cooperativas | Conexão MST, levantamento Mário Lago |
-| **Vicente Borges** | Dr. Educação do Campo | IFB Planaltina | Educação do Campo, pedagogia da alternância, Núcleo ECOA (agroecologia c/ adobe e bambu) | Coautor do MPTDF (c/ Fabio). Articulação institucional IFB |
+| **Vicente Borges** | Dr. Educação do Campo | IFB Planaltina | Educação do Campo, pedagogia da alternância, Núcleo ECOA (agroecologia c/ adobe e bambu) | Coautor do projeto MPT-DF (geração de renda c/ bambu + forno ecológico). Articulação institucional IFB |
 | **Raphaela Palma** | Nutrição + Psicologia | USP | Saúde integral | Dimensão saúde nos assentamentos |
 | **Luci Okino** | Gestão comunitária | Estação Luz | Espaço físico | Acolhida, logística |
 | **Henrique Bueno** | Direito, TI | Estação Luz | Gestão, jurídico | Marco legal, contratos |

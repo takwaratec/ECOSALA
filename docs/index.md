@@ -51,6 +51,13 @@ O envio não implica publicação automática. Cada material passa por identific
 
 Os perfis estruturados são incorporados progressivamente ao [Acervo Soberania Tecnológica](https://takwaratec.github.io/acervo-soberania-tecnologica/). Para aderir, cada participante pode encaminhar seus identificadores acadêmicos e uma relação inicial de até cinco trabalhos prioritários.
 
+### Reforma Agrária e Agrofloresta
+
+A nova frente temática articula referências científicas sobre reforma agrária, agricultura familiar, agroecologia, sistemas agroflorestais, educação do campo e restauração ambiental.
+
+- [Orientação de atuação da ECOSALA](territorios/reforma-agraria-agrofloresta.md)
+- [Gaveta científica no Acervo Soberania Tecnológica](https://takwaratec.github.io/acervo-soberania-tecnologica/analyses/reforma-agraria-agrofloresta/)
+
 ---
 
 ## 📂 Documentos do Coletivo
@@ -62,6 +69,7 @@ Os perfis estruturados são incorporados progressivamente ao [Acervo Soberania T
 | [🗓️ Reunião de alinhamento — 07/07/2026](12_REUNIOES/2026-07-07_REUNIAO_ALINHAMENTO_FINEP_ECOSALA.md) | Alinhamento inicial sobre agenda, território e oportunidade FINEP |
 | [🤝 Reunião sobre identidade e territórios — 14/07/2026](12_REUNIOES/2026-07-14_MEMORIA_REUNIAO_IDENTIDADE_TERRITORIOS.md) | Projeto estruturante, territórios digitais e preparação do workshop |
 | [🧭 Status e pauta de organização — 30/07/2026](12_REUNIOES/2026-07-30_STATUS_PAUTA_ORGANIZACAO.md) | Pendências, pauta e resultados esperados para a próxima reunião |
+| [🌱 Reforma Agrária e Agrofloresta](territorios/reforma-agraria-agrofloresta.md) | Orientação para assessoria, lastro científico e colaboração territorial |
 
 ---
 
